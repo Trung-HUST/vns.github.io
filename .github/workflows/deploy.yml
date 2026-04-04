@@ -26,10 +26,12 @@ jobs:
         
       - name: Build Docs 🏗
         run: |
-          if [[ "${{ github.event.repository.name }}" == *.github.io ]]; then
+          owner="${{ github.repository_owner }}"
+          repo="${{ github.event.repository.name }}"
+          if [[ "${repo,,}" == "${owner,,}.github.io" ]]; then
             export BASE="/"
           else
-            export BASE="/${{ github.event.repository.name }}/"
+            export BASE="/${repo}/"
           fi
           npm run docs:build
 

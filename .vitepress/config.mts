@@ -290,14 +290,22 @@ export default defineConfig({
   srcDir: './src-vi',
 
   head: [
-    [
-      'link',
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico?v=1' }
-    ],
-    [
-      'link',
-      { rel: 'icon', type: 'image/webp', href: '/logo.webp' }
-    ],
+    (() => {
+      const base = process.env.BASE ?? '/'
+      const prefix = base.endsWith('/') ? base : `${base}/`
+      return [
+        'link',
+        { rel: 'icon', type: 'image/x-icon', href: `${prefix}favicon.ico?v=1` }
+      ]
+    })(),
+    (() => {
+      const base = process.env.BASE ?? '/'
+      const prefix = base.endsWith('/') ? base : `${base}/`
+      return [
+        'link',
+        { rel: 'icon', type: 'image/webp', href: `${prefix}logo.webp` }
+      ]
+    })(),
     [
       'script',
       {},

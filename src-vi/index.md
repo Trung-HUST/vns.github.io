@@ -10,7 +10,7 @@ hero:
     link: /getting-started/introduction
   - theme: alt
     text: Xem trên GitHub
-    link: https://github.com/bagisto/bagisto
+    link: '#'
   image:
     src: /logo.webp
     alt: VNS

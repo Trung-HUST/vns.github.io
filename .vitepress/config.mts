@@ -326,6 +326,50 @@ export default defineConfig({
         async: true
       }
     ],
+
+    [
+      'script',
+      {},
+      `
+      (function () {
+        function isBagistoLink(href) {
+          if (!href) return false;
+          try {
+            var url = new URL(href, window.location.origin);
+            var host = (url.hostname || '').toLowerCase();
+            var path = (url.pathname || '').toLowerCase();
+
+            // Bagisto domains + Bagisto GitHub org
+            if (host === 'bagisto.com' || host.endsWith('.bagisto.com')) return true;
+            if (host === 'bagisto.github.io') return true;
+            if (host === 'github.com' && path.startsWith('/bagisto/')) return true;
+            return false;
+          } catch (e) {
+            return false;
+          }
+        }
+
+        document.addEventListener(
+          'click',
+          function (event) {
+            var target = event.target;
+            if (!target) return;
+
+            var anchor = target.closest ? target.closest('a') : null;
+            if (!anchor) return;
+
+            var href = anchor.getAttribute('href') || '';
+            if (!isBagistoLink(href)) return;
+
+            event.preventDefault();
+            event.stopPropagation();
+            window.alert('Đang phát triển');
+          },
+          true
+        );
+      })();
+      `
+    ],
   ],
 
   themeConfig: {

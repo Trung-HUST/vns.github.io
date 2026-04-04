@@ -2,25 +2,39 @@ name: Deploy To GitHub Pages
 on:
   push:
     branches:
+      - main
       - master
 jobs:
   publish-docs:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           persist-credentials: false
+
+      - name: Setup Node.js 🟢
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
 
       - name: NPM Install 📦
         uses: bahmutov/npm-install@v1
         
       - name: Build Docs 🏗
-        run: npm run docs:build
+        run: |
+          if [[ "${{ github.event.repository.name }}" == *.github.io ]]; then
+            export BASE="/"
+          else
+            export BASE="/${{ github.event.repository.name }}/"
+          fi
+          npm run docs:build
 
       - name: Deploy 🚀
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./.vitepress/dist
-          cname: docs.bagisto.com

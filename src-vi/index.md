@@ -17,7 +17,7 @@ hero:
 features:
 - title: Nguồn mở
   details: Tận dụng công nghệ nguồn mở để tùy chỉnh, mở rộng và đóng góp cho nền tảng một cách miễn phí.
-  icon: <img src="/icons/opensource.png" alt="Open Source" style="width:40px;height:40px;" />
+  icon: "<img :src=\"$withBase('/icons/opensource.png')\" alt=\"Open Source\" style=\"width:40px;height:40px;\" />"
   link: /getting-started/introduction.html
 - title: Thị trường nhiều nhà cung cấp (trả phí)
   details: Xây dựng một nền tảng nơi nhiều nhà cung cấp có thể đăng ký, bán sản phẩm và quản lý cửa hàng của họ một cách độc lập.

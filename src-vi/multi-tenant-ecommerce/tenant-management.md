@@ -1,4 +1,4 @@
-# TQuản lý thuê nhà
+# Quản lý người thuê
 
 **Quản lý người thuê** trong SaaS giúp người thuê dễ dàng đăng ký và nhanh chóng tạo cửa hàng trực tuyến bằng cách điền thông tin đăng nhập, cá nhân và tổ chức của họ.
 
@@ -6,7 +6,7 @@ Sau khi đăng ký, giao diện cửa hàng của người thuê sẽ được t
 
 Sử dụng **Bảng quản trị đối tượng thuê**, đối tượng thuê có thể quản lý sản phẩm, danh mục, thuộc tính, khách hàng, v.v. thông qua giao diện thân thiện với người dùng tương tự như VNS. Người thuê cũng có thể quản lý đơn đặt hàng bằng cách tạo hóa đơn, thiết lập lô hàng và sử dụng các tùy chọn menu khác để vận hành cửa hàng của mình một cách hiệu quả.
 
-## TĐăng ký thuê nhà
+## Đăng ký người thuê
 
 Có ba bước để đăng ký trên SaaS:
 
@@ -43,7 +43,7 @@ Sau khi đăng ký hoàn tất, cửa hàng trực tuyến của người thuê 
 
 <ImagePopup src="/images/multi-tenant-ecommerce/4-tenant-store.png" alt="Tenant Storefront" />
 
-## Tenant Admin Panel
+## Bảng điều khiển quản trị người thuê
 
 Sau khi đăng ký, người thuê có thể truy cập bảng quản trị của mình thông qua một URL duy nhất (ví dụ: **site1.VNS.com/saas-common/admin/dashboard**).
 
@@ -94,7 +94,7 @@ Trong **Menu bên người thuê**, người thuê có thể quản lý và thay
 - **Họ và Tên**
 - **Địa chỉ Email**
 - **ID Skype**
-- **CName**
+- **CNAME**
 - **Số điện thoại**
 
 <ImagePopup src="/images/multi-tenant-ecommerce/10-tenant-profile.png" alt="Tenant Profile Details" />

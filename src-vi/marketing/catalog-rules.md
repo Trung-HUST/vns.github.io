@@ -64,7 +64,7 @@ Bây giờ **Lưu Quy tắc danh mục** và bạn sẽ có thể thấy **Quy t
 
 <ImagePopup src="/images/marketing/catalogOutput.png" alt="Catalog Output" />
 
-### Phần đầu:-
+### Giao diện cửa hàng
 
 Bạn sẽ được GIẢM GIÁ 50% cho sản phẩm sau khi áp dụng quy tắc danh mục như dưới đây.
 

@@ -12,7 +12,7 @@ Từ bảng điều khiển người bán, đi tới **Sản phẩm** và nhấp
 
 <ImagePopup src="/images/multi-vendor-marketplace/1-seller-dashboard.png" alt="Seller Dashboard" />
 
-Sản phẩm của người bán ### S
+### Sản phẩm của người bán
 
 <ImagePopup src="/images/multi-vendor-marketplace/2-product-page.png" alt="Product Page" />
 

@@ -88,7 +88,7 @@ Nhấp vào **“Phê duyệt báo giá cuối cùng”** để xác nhận báo
 
 <ImagePopup src="/images/b2b-marketplace/11-quotes-confirm-by-customer.png" alt="Quotes Confirmed by Customer" />
 
-### SSeller Dashboard
+### Bảng điều khiển người bán
 
 Trong **Bảng điều khiển người bán**, nhấp vào **Khách hàng tiềm năng mua**. Người bán sẽ tìm thấy thông tin chi tiết về RFQ tại đây.
 

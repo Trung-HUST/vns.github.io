@@ -1,4 +1,4 @@
-Mẫu email # Email
+# Mẫu email
 
 Như chúng ta đều biết, mọi người đều muốn có một số tùy chỉnh theo sở thích riêng của mình, đó là lý do tại sao việc biết về việc thay đổi mẫu email cũng khá hữu ích đối với một số người dùng.
 

@@ -6,7 +6,7 @@ Tiếp thị qua email là một trong những công cụ mạnh mẽ nhất cho
 
 Tính năng này cho phép bạn trao đổi hàng loạt với khách hàng về các ưu đãi sắp tới của cửa hàng, chẳng hạn như đợt giảm giá Thứ Sáu Đen, đợt giảm giá Giáng sinh và ưu đãi Năm Mới.
 
-Cấu hình ### Admin
+### Cấu hình quản trị
 
 **Bước 1)** Trước tiên, quản trị viên có thể điều hướng đến **Cấu hình >> Khách hàng >> Cài đặt**
 
@@ -26,11 +26,11 @@ Ngoài ra, quản trị viên sẽ điều hướng đến **Tiếp thị >> Tru
 
 **Bước 3)** Sau khi cấu hình xong, bạn cần chạy lệnh trong thư mục gốc của dự án để gửi email như sau:
 
-**Chiến dịch nghệ nhân php:quy trình**
+**php artisan campaign:process**
 
 <ImagePopup src="/images/marketing/command.png" alt="Newsletter Grid" />
 
-**Cấu hình khách hàng**
+### Cấu hình khách hàng
 
 Bây giờ là lúc tìm hiểu về khách hàng tại cửa hàng của chúng tôi từ nơi họ có thể đăng ký nhận bản tin.
 

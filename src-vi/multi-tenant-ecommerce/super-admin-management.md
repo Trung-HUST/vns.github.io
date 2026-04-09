@@ -4,7 +4,7 @@ Vị trí **Quản trị viên cấp cao** là người có thẩm quyền cao n
 
 Vai trò này bao gồm:
 - Quản lý thương nhân (người thuê nhà)
-- APhân công vai trò cho nhân viên (đại lý)
+- Phân công vai trò cho nhân viên (đại lý)
 - Đảm bảo hệ thống vận hành trơn tru
 
 Quản trị viên cấp cao thiết lập khả năng hiển thị sản phẩm, quản lý kênh và thiết kế chủ đề để duy trì giao diện và thương hiệu nhất quán cho tất cả các cửa hàng thuê. Họ cũng xử lý các trang CMS, gửi các chương trình email và quản lý cài đặt chung để đảm bảo giao tiếp rõ ràng và quản trị nền tảng phù hợp.
@@ -50,9 +50,9 @@ Ngoài ra, **Quản trị viên cấp cao** có thể đăng ký người thuê 
 
 - **Hình ảnh hồ sơ:** Thêm hình ảnh hồ sơ.
 
-Cuối cùng, nhấp vào nút **Save Tenant** để lưu đối tượng thuê mới.
+Cuối cùng, nhấp vào nút **Lưu người thuê** để lưu đối tượng thuê mới.
 
-## TThông tin chi tiết về người thuê nhà
+## Thông tin chi tiết về người thuê
 
 Để xem tất cả thông tin chi tiết về người thuê, hãy điều hướng đến **Người thuê → Người thuê** và nhấp vào biểu tượng **Xem**.
 
@@ -60,7 +60,7 @@ Trong **Thông tin chi tiết về người thuê**, Quản trị viên cấp ca
 
 <ImagePopup src="/images/multi-tenant-ecommerce/4-Super-tenant-Insights.png" alt="Super Admin Tenant Insights" />
 
-### TThông tin chuyên sâu về Tenant
+### Thông tin chuyên sâu về người thuê
 
 - **Thông tin tên miền:** Thông tin chi tiết về người thuê.
 
@@ -88,7 +88,7 @@ Tuy nhiên, **Quản trị viên cấp cao** cũng có khả năng **xóa** mộ
 
 <ImagePopup src="/images/multi-tenant-ecommerce/6-super-delete-tenant.png" alt="Super Admin Delete Tenant" />
 
-## Tenant Khách hàng
+## Khách hàng của người thuê
 
 Bằng cách điều hướng đến **Người thuê → Khách hàng**, Quản trị viên cấp cao có thể xem tất cả danh sách khách hàng của người thuê, như trong hình bên dưới:
 
@@ -96,7 +96,7 @@ Bằng cách điều hướng đến **Người thuê → Khách hàng**, Quản
 
 **Lưu ý:** Quản trị viên cấp cao chỉ có thể **xem** danh sách khách hàng và không thể xóa, cập nhật hoặc chỉnh sửa bất kỳ thông tin chi tiết nào về khách hàng.
 
-Sản phẩm của ## Tenant
+## Sản phẩm của người thuê
 
 Bằng cách điều hướng tới **Người thuê → Sản phẩm**, Quản trị viên cấp cao có thể xem tất cả danh sách sản phẩm của người thuê, như trong hình bên dưới:
 
@@ -104,7 +104,7 @@ Bằng cách điều hướng tới **Người thuê → Sản phẩm**, Quản 
 
 **Lưu ý:** Quản trị viên cấp cao chỉ có thể **xem** danh sách sản phẩm và không thể xóa, cập nhật hoặc chỉnh sửa bất kỳ chi tiết sản phẩm nào.
 
-## TLệnh của người thuê
+## Đơn hàng của người thuê
 
 Bằng cách điều hướng đến **Người thuê → Đơn đặt hàng**, Quản trị viên cấp cao có thể xem tất cả các đơn đặt hàng của người thuê, như trong hình bên dưới:
 

@@ -20,7 +20,7 @@ Trong thương mại điện tử, nhiều loại thuế khác nhau được áp
 
 <ImagePopup src="/images/settings/savetaxRate.png" alt="Save Tax Rate" />
 
-## Tax Danh mục
+## Danh mục thuế
 
 **Bước 1:** Để tạo Danh mục thuế, hãy chuyển đến **Danh mục thuế**.  
 

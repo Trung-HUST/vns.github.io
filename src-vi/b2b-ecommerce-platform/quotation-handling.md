@@ -147,7 +147,7 @@ Quản trị viên và người dùng công ty có thể trao đổi tin nhắn 
 
 <ImagePopup src="/images/b2b-ecommerce-platform/8-admin-quotation.png" alt="Super Admin Login" />
 
-### SGửi báo giá
+### Gửi báo giá
 
 Quản trị viên có thể sửa đổi và gửi lại báo giá với các điều khoản đàm phán được cập nhật.
 
@@ -165,7 +165,7 @@ Nhấp vào **Lưu** để gửi báo giá cập nhật cho người dùng của
 
 <ImagePopup src="/images/b2b-ecommerce-platform/9-send-message.png" alt="Super Admin Login" />
 
-### AChấp nhận hoặc từ chối báo giá
+### Chấp nhận hoặc từ chối báo giá
 
 Sau khi đàm phán hoàn tất, quản trị viên có thể hoàn tất báo giá.
 

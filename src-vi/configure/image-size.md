@@ -4,7 +4,7 @@ Giao diện cửa hàng là phần hướng tới khách hàng của một cửa
 
 Để cấu hình kích thước hình ảnh, hãy đi tới bảng quản trị và nhấp vào **Cấu hình >> Sản phẩm**.
 
-### SHình ảnh nhỏ
+### Hình ảnh nhỏ
 
 Đặt **Chiều cao** và **Chiều rộng** cho hình ảnh nhỏ.
 

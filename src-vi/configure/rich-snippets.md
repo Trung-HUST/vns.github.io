@@ -1,4 +1,4 @@
-# RĐoạn phong phú
+# Đoạn phong phú
 
 Đoạn mã chi tiết (hoặc "Kết quả nhiều định dạng") là kết quả tìm kiếm nâng cao của Google hiển thị thông tin bổ sung được lấy từ dữ liệu có cấu trúc trong HTML của trang.
 

@@ -36,7 +36,7 @@ Trong Multi Vendor Marketplace, tính năng quản lý Sản phẩm được thi
 
 Với các công cụ dễ sử dụng, người bán có thể nhanh chóng chỉnh sửa hoặc cập nhật sản phẩm bất cứ khi nào cần, đảm bảo danh sách của họ luôn chính xác và hấp dẫn. 
 
-### RQuản lý xếp hạng
+### Quản lý xếp hạng
 
 Xếp hạng và đánh giá tạo dựng niềm tin trên thị trường trực tuyến, hướng dẫn khách hàng mua hàng và giúp người bán cải thiện dịch vụ của họ.
 

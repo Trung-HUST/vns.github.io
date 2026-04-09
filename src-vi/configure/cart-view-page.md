@@ -1,4 +1,4 @@
-# Cart Xem trang
+# Trang xem giỏ hàng
 
 Cấu hình trang xem giỏ hàng bao gồm việc sắp xếp các mặt hàng, chi tiết và tùy chọn trên trang giỏ hàng, cải thiện sự tương tác của người dùng và luồng mua hàng.
 

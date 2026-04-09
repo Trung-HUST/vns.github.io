@@ -46,7 +46,7 @@ Khách hàng có thể điều hướng đến trang phản hồi của nhà cun
 
 ---
 
-### SNhà cung cấp Truyền thông Khách hàng
+### Giao tiếp giữa nhà cung cấp và khách hàng
 
 Trong Thị trường B2B VNS, nhà cung cấp có thể dễ dàng liên lạc với khách hàng để cung cấp thông tin cập nhật hoặc trả lời các câu hỏi.
 

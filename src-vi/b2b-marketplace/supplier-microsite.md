@@ -136,7 +136,7 @@ Phần này cung cấp một cái nhìn tổng quan ngắn gọn về cửa hàn
 
 <ImagePopup src="/images/b2b-marketplace/9-corporate-address-and-about-shop.png" alt="Corporate Address and About Shop" />
 
-## PChính sách
+## Chính sách
 
 Để đảm bảo trải nghiệm mua sắm rõ ràng và đáng tin cậy, nhà cung cấp có thể bổ sung các chính sách quan trọng như:
 

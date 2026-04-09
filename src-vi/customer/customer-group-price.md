@@ -32,7 +32,7 @@ Tạo một sản phẩm mới và đi đến trang chỉnh sửa sản phẩm. 
 
 **Ví dụ về giá cố định**  
 
-Ở đây tôi đã đặt giá cố định cho sản phẩm trong **Nhóm Khách hàng Khách hàng** với số lượng tối thiểu là 1.  
+Ở đây tôi đã đặt giá cố định cho sản phẩm trong **Nhóm khách hàng** với số lượng tối thiểu là 1.  
 
 Điều đó có nghĩa là nếu bạn mua một sản phẩm này với giá 2500 USD và Giá nhóm khách hàng được thêm vào là 220 USD thì chi phí sẽ là 220 USD cho số lượng một sản phẩm.
 
@@ -42,11 +42,11 @@ Vì vậy bây giờ hãy nhấp vào nút **Save** như hình bên dưới.
 
 Bây giờ hãy lưu sản phẩm. Bạn có thể thấy sự thay đổi giá theo nhóm.  
 
-Khi đặt cho nhóm Khách có giá cố định, nó sẽ hiển thị giá theo nhóm khách như hình bên dưới.  
+Khi đặt giá cố định cho nhóm khách hàng, nó sẽ hiển thị giá theo nhóm khách như hình bên dưới.  
 
 <ImagePopup src="/images/customer/priceOutput.png" alt="Group Price Output" />
 
-### AThêm nhiều nhóm khách hàng Định giá
+### Thêm nhiều nhóm khách hàng định giá
 
 Bạn cũng có thể thêm nhiều tùy chọn Giá nhóm khách hàng cho số lượng hoặc nhóm khác nhau để khuyến khích mua số lượng lớn và đưa ra các ưu đãi tốt hơn.
 

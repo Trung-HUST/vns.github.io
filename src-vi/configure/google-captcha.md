@@ -4,7 +4,7 @@ Google reCAPTCHA là một tính năng bảo mật do Google cung cấp nhằm g
 
 Nó hoạt động bằng cách xác minh xem tương tác được thực hiện bởi người dùng thực hay tập lệnh tự động. Bằng cách thêm reCAPTCHA vào các biểu mẫu như đăng nhập, đăng ký, liên hệ và thanh toán, chủ cửa hàng có thể ngăn chặn việc gửi giả mạo, các cuộc tấn công bạo lực và các hoạt động độc hại.
 
-Để thêm, hãy truy cập Bảng quản trị và nhấp vào **Định cấu hình >> Google Captcha** như hiển thị bên dưới.
+Để thêm, hãy truy cập bảng quản trị và nhấp vào **Cấu hình >> Google Captcha** như hiển thị bên dưới.
 
  <ImagePopup src="/images/configure/configure-captcha.png" alt="Account Login" />
 

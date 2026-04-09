@@ -10,7 +10,7 @@ Bagisto comes with a default root category, i.e., Root, but you can also create 
 
 1. Click on **Catalog >> Categories >> Create Category** as shown in the image below.
 
-   <ImagePopup src="/images/category/create.png" alt="Create Category in Bagisto" />
+   <ImagePopup src="/images/category/create.png" alt="Create Category in VNS" />
 
 2. Enter the general values like name, position, and description, and add images.
 
@@ -29,7 +29,7 @@ Bagisto comes with a default root category, i.e., Root, but you can also create 
 
 4. Save the category, and a new category will be created by the name of **Electronic Items** as shown in the image below.
 
-   <ImagePopup src="/images/category/categoryGrid.png" alt="Category Grid in Bagisto" />
+   <ImagePopup src="/images/category/categoryGrid.png" alt="Category Grid in VNS" />
 
 5. Now check the product edit page while creating a product, and you will be able to see the newly created category there.
 

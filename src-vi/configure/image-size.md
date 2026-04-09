@@ -1,8 +1,8 @@
 # Kích thước hình ảnh
 
-Mặt tiền cửa hàng là giao diện hướng tới khách hàng của một cửa hàng trực tuyến, trưng bày các sản phẩm, danh mục và điều hướng để mang lại trải nghiệm mua sắm liền mạch.
+Giao diện cửa hàng là phần hướng tới khách hàng của một cửa hàng trực tuyến, trưng bày sản phẩm, danh mục và điều hướng để mang lại trải nghiệm mua sắm liền mạch.
 
-Để định cấu hình kích thước hình ảnh, hãy đi tới Bảng quản trị và nhấp vào **Định cấu hình >> Sản phẩm**.
+Để cấu hình kích thước hình ảnh, hãy đi tới bảng quản trị và nhấp vào **Cấu hình >> Sản phẩm**.
 
 ### SHình ảnh nhỏ
 
@@ -18,4 +18,4 @@ Mặt tiền cửa hàng là giao diện hướng tới khách hàng của một
 
 <ImagePopup src="/images/configure/imageSize.png" alt="Image Size Configuration" />
 
-Sau khi thực hiện thay đổi, nhấp vào nút **Save Configuration**.
+Sau khi thực hiện thay đổi, nhấp vào nút **Lưu cấu hình**.

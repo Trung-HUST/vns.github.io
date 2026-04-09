@@ -1,12 +1,12 @@
 # Cài đặt đơn hàng
 
-Để định cấu hình cài đặt đơn hàng, hãy đi tới Bảng quản trị và điều hướng đến **Cấu hình >> Cài đặt đơn hàng**.
+Để cấu hình cài đặt đơn hàng, hãy đi tới bảng quản trị và điều hướng đến **Cấu hình >> Cài đặt đơn hàng**.
 
 **Cài đặt số thứ tự:**  
 Các cài đặt này xác định cách tạo, định dạng và quản lý số đơn hàng trong hệ thống. Chúng rất quan trọng để tổ chức và theo dõi đơn hàng một cách hiệu quả.
 
 **Cài đặt đơn hàng tối thiểu:**  
-Tiêu chí được định cấu hình chỉ định số lượng hoặc giá trị yêu cầu thấp nhất để một đơn hàng được xử lý hoặc đủ điều kiện nhận lợi ích.
+Tiêu chí đã thiết lập chỉ định số lượng hoặc giá trị yêu cầu tối thiểu để một đơn hàng được xử lý hoặc đủ điều kiện nhận lợi ích.
 
 Bạn cũng có thể thêm các tùy chọn cấu hình mới trong phần Đặt hàng, bao gồm **Bao gồm số tiền chiết khấu**, **Bao gồm thuế vào số tiền** và **Mô tả** trên trang giỏ hàng.
 

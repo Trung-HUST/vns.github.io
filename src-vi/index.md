@@ -32,7 +32,7 @@ features:
   icon: ☁️
   link: /multi-tenant-ecommerce/introduction.html
 - title: Nền tảng thương mại điện tử B2B mã nguồn mở
-  details: Nền tảng thương mại điện tử B2B nâng cao cửa hàng VNS của bạn với các tính năng nâng cao giữa doanh nghiệp với doanh nghiệp (B2B).
+  details: Nền tảng thương mại điện tử B2B giúp nâng cấp cửa hàng VNS của bạn với các tính năng B2B nâng cao.
   icon: 💼
   link: /b2b-ecommerce-platform/introduction.html
 - title: Ứng dụng di động gốc

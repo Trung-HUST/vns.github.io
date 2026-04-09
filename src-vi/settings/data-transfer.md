@@ -18,7 +18,7 @@ Bạn có thể dễ dàng Tải lên hàng loạt **Sản phẩm, Khách hàng 
 
 **2) Tệp –** Chọn tệp ở định dạng bạn muốn (CSV, XLS, XLSX) và vui lòng đảm bảo rằng bạn có tất cả các trường bắt buộc trong tệp.
 
-*Lưu ý – Trong khi nhập dữ liệu sản phẩm, bạn có thể nhập các loại sản phẩm Đơn giản, Có thể định cấu hình, Ảo, Theo gói & Nhóm ngoại trừ các sản phẩm có thể tải xuống.*
+*Lưu ý – Trong khi nhập dữ liệu sản phẩm, bạn có thể nhập các loại sản phẩm Đơn giản, Có thể cấu hình, Ảo, Theo gói & Nhóm ngoại trừ các sản phẩm có thể tải xuống.*
 
 **3) Tải xuống mẫu –** Bạn cũng có thể tải xuống các tệp mẫu thuộc các loại (Sản phẩm, Khách hàng, Thuế suất). Vui lòng đảm bảo rằng tệp bạn đang tải lên giống với tệp mẫu này.
 

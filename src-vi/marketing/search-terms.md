@@ -1,6 +1,6 @@
 # Điều khoản tìm kiếm
 
-Cụm từ tìm kiếm là những từ khóa mà khách hàng sử dụng trên mặt tiền cửa hàng của bạn để tìm kiếm sản phẩm.
+Cụm từ tìm kiếm là những từ khóa mà khách hàng dùng trên giao diện cửa hàng của bạn để tìm sản phẩm.
 
 ### Bước 1: Tạo cụm từ tìm kiếm
 
@@ -32,6 +32,6 @@ Một cụm từ tìm kiếm mới (ví dụ **Adorable**) được tạo thành
 
 ### Bước 4: Kiểm tra giao diện người dùng
 
-Bây giờ hãy kiểm tra kết quả bằng cách tìm kiếm cụm từ tìm kiếm của bạn trên mặt tiền cửa hàng.
+Bây giờ hãy kiểm tra kết quả bằng cách tìm cụm từ tìm kiếm của bạn trên giao diện cửa hàng.
 
 <ImagePopup src="/images/marketing/frontendOutput.png" alt="Frontend Output" />

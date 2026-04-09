@@ -48,7 +48,7 @@ Phần này rất hữu ích cho việc xây dựng thương hiệu cửa hàng 
 
 Dưới đây là các trường bạn sẽ tìm thấy trong phần Hồ sơ:
 
- **1) Tải hình ảnh biểu ngữ lên** để hiển thị trên mặt tiền cửa hàng của bạn.
+ **1) Tải hình ảnh biểu ngữ lên** để hiển thị trên giao diện cửa hàng của bạn.
 
  **2) Thêm logo cửa hàng của bạn** để tạo nhận diện thương hiệu.
 

@@ -1,18 +1,18 @@
 # Thanh toán
 
-Cấu hình thanh toán được liệt kê dưới đây.
+Các thiết lập thanh toán được liệt kê dưới đây.
 
-### Giỏ Hàng
+### Giỏ hàng
 
-Cho phép khách thanh toán, trang giỏ hàng, bán kèm sản phẩm và vận chuyển ước tính để nâng cao sự thuận tiện cho người dùng và hợp lý hóa quy trình mua sắm để tăng doanh số bán hàng.
+Bật thanh toán cho khách, trang giỏ hàng, sản phẩm gợi ý thêm và phí vận chuyển ước tính để tăng tiện lợi cho người dùng và tối ưu quy trình mua sắm, qua đó tăng doanh số bán hàng.
 
 <ImagePopup src="/images/configure/checkout.png" alt="Checkout" />
 
 ### Giỏ hàng của tôi
 
-Bật cài đặt cho Giỏ hàng của tôi để hiển thị tóm tắt số lượng mặt hàng và hiển thị tổng số mặt hàng trong giỏ hàng để dễ theo dõi.
+Bật tùy chọn Giỏ hàng của tôi để hiển thị tóm tắt số lượng sản phẩm và tổng số sản phẩm trong giỏ hàng, giúp theo dõi dễ hơn.
 
-Trong trường hợp này, chúng tôi cung cấp hai tùy chọn:
+Ở đây có hai tùy chọn:
 
 **A) Hiển thị số lượng mặt hàng trong giỏ hàng** - Chọn tùy chọn **Hiển thị số lượng mặt hàng trong giỏ hàng** rồi nhấp vào nút **Lưu cấu hình**.
 
@@ -26,26 +26,26 @@ Sau khi nhấp vào nút Thêm vào giỏ hàng, tùy chọn này sẽ hiển th
 
 <ImagePopup src="/images/configure/itemQuantity.png" alt="Display Items Quantities" />
 
-Sau khi nhấp vào nút Thêm vào giỏ hàng, ví dụ: 7 sản phẩm bạn đã thêm vào giỏ hàng, chỉ có 1 số lượng hiển thị ở giao diện người dùng.
+Sau khi nhấp vào nút Thêm vào giỏ hàng, ví dụ bạn đã thêm 7 sản phẩm vào giỏ hàng, giao diện chỉ hiển thị một con số đại diện cho số lượng.
 
 <ImagePopup src="/images/configure/1mycart.png" alt="Display Items Quantities" />
 
-Để kiểm tra tổng số mặt hàng, bạn phải vào trong xe đẩy nhỏ.
+Để kiểm tra tổng số sản phẩm, bạn cần mở giỏ hàng mini.
 
 <ImagePopup src="/images/configure/7mycart.png" alt="Display Items Quantities" />
 
-### Xe Mini
+### Giỏ hàng mini
 
-Mini Cart là tùy chọn nơi bạn có thể xem thông tin sau khi thêm sản phẩm vào giỏ hàng.
+Giỏ hàng mini là tùy chọn cho phép xem nhanh thông tin sau khi thêm sản phẩm vào giỏ hàng.
 
-Để bật cài đặt giỏ hàng mini, hãy đi tới **Định cấu hình >> Thanh toán >> Giỏ hàng mini**. Bạn cũng có thể thêm thông báo thông tin ưu đãi giỏ hàng nhỏ như trong hình bên dưới.
+Để bật cài đặt giỏ hàng mini, hãy đi tới **Cấu hình >> Thanh toán >> Giỏ hàng mini**. Bạn cũng có thể thêm thông báo ưu đãi cho giỏ hàng mini như hình bên dưới.
 
 <ImagePopup src="/images/configure/mini-cart.png" alt="Mini Cart" />
 
-Xe đẩy mini có thể mở với thông báo ưu đãi như trong hình bên dưới.
+Giỏ hàng mini có thể mở kèm thông báo ưu đãi như trong hình bên dưới.
 
 <ImagePopup src="/images/configure/mini-cart1.png" alt="Mini Cart" />
 
-Bây giờ, nếu chúng tôi tắt Giỏ hàng nhỏ này, người dùng sẽ không thể mở giỏ hàng nhỏ và được chuyển hướng trực tiếp đến trang thanh toán.
+Nếu tắt giỏ hàng mini này, người dùng sẽ không thể mở giỏ hàng mini và sẽ được chuyển thẳng đến trang thanh toán.
 
 <ImagePopup src="/images/configure/disableminiCart.png" alt="Disable Mini Cart" />

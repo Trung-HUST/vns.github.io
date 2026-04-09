@@ -1,10 +1,10 @@
 # Cài đặt hóa đơn
 
-Để định cấu hình cài đặt hóa đơn, hãy đi tới Bảng quản trị và nhấp vào **Định cấu hình >> Cài đặt hóa đơn**.
+Để cấu hình cài đặt hóa đơn, hãy đi tới bảng quản trị và nhấp vào **Cấu hình >> Cài đặt hóa đơn**.
 
 ### 1. Cài đặt số hóa đơn
 
-Định cấu hình quy tắc hoặc tham số để tạo và gán số nhận dạng duy nhất cho hóa đơn nhằm mục đích tổ chức và theo dõi.
+Thiết lập quy tắc hoặc tham số để tạo và gán số nhận dạng duy nhất cho hóa đơn nhằm mục đích tổ chức và theo dõi.
 
 <ImagePopup src="/images/configure/invoicenumberSettings.png" alt="Invoice Number Settings" />
 
@@ -26,4 +26,4 @@ Bật thông báo hoặc thông tin liên lạc tự động được gửi tớ
 
 <ImagePopup src="/images/configure/invoiceReminder.png" alt="Invoice Reminder" />
 
-Sau khi thực hiện thay đổi, nhấp vào nút **Save Configuration**.
+Sau khi thực hiện thay đổi, nhấp vào nút **Lưu cấu hình**.

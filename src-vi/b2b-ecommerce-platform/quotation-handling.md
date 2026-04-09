@@ -2,7 +2,7 @@
 
 Tính năng Xử lý báo giá giao diện người dùng cho phép người dùng công ty xem, theo dõi và quản lý tất cả các yêu cầu báo giá trực tiếp từ trang tổng quan của họ.
 
-Người dùng có thể tạo, thương lượng và phản hồi các báo giá một cách liền mạch trực tiếp từ mặt tiền cửa hàng.
+Người dùng có thể tạo, thương lượng và phản hồi báo giá một cách liền mạch ngay trên giao diện cửa hàng.
 
 **Truy cập báo giá**
 
@@ -175,7 +175,7 @@ Sau khi đàm phán hoàn tất, quản trị viên có thể hoàn tất báo g
 
 2) Nhập tin nhắn và nhấp vào Lưu để xác nhận.
 
-3) Trạng thái báo giá cập nhật thành Đã chấp nhận trên mặt tiền cửa hàng, cho phép công ty tiến hành mua hàng thông qua nút Thêm vào giỏ hàng.
+3) Trạng thái báo giá sẽ chuyển thành Đã chấp nhận trên giao diện cửa hàng, cho phép công ty tiến hành mua hàng qua nút Thêm vào giỏ hàng.
 
 <ImagePopup src="/images/b2b-ecommerce-platform/10-accept-last-quotation.png" alt="Super Admin Login" />
 

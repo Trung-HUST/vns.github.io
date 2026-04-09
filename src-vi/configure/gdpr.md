@@ -4,8 +4,8 @@ VNS cung cấp các tính năng tuân thủ GDPR (Quy định chung về bảo v
 
 ## Bật cài đặt tuân thủ GDPR
 
-Để thêm, hãy đi tới Bảng quản trị và nhấp vào **Định cấu hình >> GDPR >> Bật GDPR**.  
-Phần này trao quyền cho chủ cửa hàng định cấu hình các chính sách liên quan đến GDPR và quản lý hiệu quả các yêu cầu dữ liệu khách hàng. Các tính năng chính bao gồm:
+Để thêm, hãy đi tới bảng quản trị và nhấp vào **Cấu hình >> GDPR >> Bật GDPR**.  
+Phần này cho phép chủ cửa hàng thiết lập các chính sách liên quan đến GDPR và quản lý hiệu quả các yêu cầu dữ liệu khách hàng. Các tính năng chính bao gồm:
 
 Nút - **Yêu cầu GDPR** xuất hiện trên trang hồ sơ của khách hàng trong giao diện cửa hàng.
 - Xử lý yêu cầu xóa hoặc cập nhật dữ liệu của khách hàng.
@@ -16,7 +16,7 @@ Sau đó, nhấp vào nút **Lưu cấu hình**.
 
 ## GDPR Thỏa thuận
 
-Để thêm, hãy đi tới Bảng điều khiển quản trị và nhấp vào **Định cấu hình >> GDPR >> Kích hoạt Thỏa thuận khách hàng**.  
+Để thêm, hãy đi tới bảng quản trị và nhấp vào **Cấu hình >> GDPR >> Kích hoạt Thỏa thuận khách hàng**.  
 Nút Thỏa thuận GDPR được sử dụng để nhận được sự đồng ý rõ ràng từ khách hàng trước khi họ tiến hành đăng ký tài khoản, thanh toán hoặc các hành động khác liên quan đến dữ liệu. Nó đảm bảo:
 
 - UNgười dùng thừa nhận và chấp nhận chính sách bảo mật của cửa hàng.
@@ -33,8 +33,8 @@ Sau đó, nhấp vào nút **Lưu cấu hình**.
 
 ## Cookie Cài đặt thông báo
 
-Để thêm, hãy đi tới Bảng quản trị và nhấp vào **Định cấu hình >> GDPR >> Bật thông báo cookie**.  
-Phần này cho phép chủ cửa hàng định cấu hình cách hiển thị thông báo cookie cho người dùng. Các cài đặt chính bao gồm:
+Để thêm, hãy đi tới bảng quản trị và nhấp vào **Cấu hình >> GDPR >> Bật thông báo cookie**.  
+Phần này cho phép chủ cửa hàng thiết lập cách hiển thị thông báo cookie cho người dùng. Các cài đặt chính bao gồm:
 
 - **Vị trí hiển thị khối cookie** – Xác định vị trí thông báo cookie sẽ xuất hiện trên trang. Tùy chọn có sẵn:  
   - Từ dưới bên trái  

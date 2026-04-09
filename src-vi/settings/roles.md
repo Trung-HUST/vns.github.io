@@ -16,7 +16,7 @@ Vai trò trong VNS cho phép chủ cửa hàng tạo người dùng và phân qu
 
 <ImagePopup src="/images/settings/newRole.png" alt="New Role" />
 
-**Bước 3:** Định cấu hình quyền **Kiểm soát truy cập** nếu cần.
+**Bước 3:** Cấu hình quyền **Kiểm soát truy cập** nếu cần.
 
 <ImagePopup src="/images/settings/accessControl.png" alt="Access Control" />
 

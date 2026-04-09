@@ -130,7 +130,7 @@ Phần Trường tùy chỉnh cho phép Quản trị viên thêm các trường 
 
 Các trường này giúp thu thập các chi tiết bổ sung như hình ảnh, nhận xét hoặc thông tin cụ thể về đơn đặt hàng.
 
-Quản trị viên có thể định cấu hình loại trường, nhãn, xác thực và vị trí. Điều này làm cho biểu mẫu RMA linh hoạt hơn và giúp thu thập thông tin chính xác.
+Quản trị viên có thể thiết lập loại trường, nhãn, xác thực và vị trí. Điều này làm cho biểu mẫu RMA linh hoạt hơn và giúp thu thập thông tin chính xác.
 
 **Các bước để tạo trường tùy chỉnh RMA:**
 

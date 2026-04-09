@@ -2,7 +2,7 @@
 
 **Quản lý người thuê** trong SaaS giúp người thuê dễ dàng đăng ký và nhanh chóng tạo cửa hàng trực tuyến bằng cách điền thông tin đăng nhập, cá nhân và tổ chức của họ.
 
-Sau khi đăng ký, mặt tiền cửa hàng của người thuê sẽ được thiết lập tự động, cho phép họ bắt đầu bán hàng ngay lập tức mà không gặp bất kỳ khó khăn kỹ thuật nào.
+Sau khi đăng ký, giao diện cửa hàng của người thuê sẽ được thiết lập tự động, cho phép họ bắt đầu bán hàng ngay lập tức mà không gặp bất kỳ khó khăn kỹ thuật nào.
 
 Sử dụng **Bảng quản trị đối tượng thuê**, đối tượng thuê có thể quản lý sản phẩm, danh mục, thuộc tính, khách hàng, v.v. thông qua giao diện thân thiện với người dùng tương tự như VNS. Người thuê cũng có thể quản lý đơn đặt hàng bằng cách tạo hóa đơn, thiết lập lô hàng và sử dụng các tùy chọn menu khác để vận hành cửa hàng của mình một cách hiệu quả.
 
@@ -37,7 +37,7 @@ Người thuê phải nhập **Chi tiết tổ chức**, chẳng hạn như:
 
 <ImagePopup src="/images/multi-tenant-ecommerce/3-registration-tenant.png" alt="Tenant Registration Step 3" />
 
-## Tenant Mặt tiền cửa hàng
+## Giao diện cửa hàng của người thuê
 
 Sau khi đăng ký hoàn tất, cửa hàng trực tuyến của người thuê sẽ được thiết lập tự động. Như trong hình bên dưới, cửa hàng này là nơi khách hàng có thể duyệt và mua sản phẩm.
 

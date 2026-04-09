@@ -154,7 +154,7 @@ Trong phần này, bạn cần cung cấp chi tiết vật lý của sản phẩ
 
 - **Đặc sắc:** Kích hoạt nút bật tắt để hiển thị sản phẩm tại mục Sản phẩm nổi bật.
 
-- **Hiển thị riêng lẻ:** Kích hoạt nút chuyển đổi để sản phẩm sẽ hiển thị riêng lẻ trên mặt tiền cửa hàng.
+- **Hiển thị riêng lẻ:** Kích hoạt nút chuyển đổi để sản phẩm sẽ hiển thị riêng lẻ trên giao diện cửa hàng.
 
 - **Trạng thái:** Bật nút chuyển đổi để kích hoạt sản phẩm và cung cấp sản phẩm trong cửa hàng Thương mại Điện tử của bạn.
 
@@ -164,11 +164,11 @@ Trong phần này, bạn cần cung cấp chi tiết vật lý của sản phẩ
 
 #### Hàng tồn kho
 
-Trong phần này, nhập số lượng sản phẩm có sẵn trong kho của bạn. Theo mặc định, số lượng được đặt thành 0, có nghĩa là sản phẩm sẽ xuất hiện với dòng chữ **Hết hàng** trên mặt tiền cửa hàng.
+Trong phần này, nhập số lượng sản phẩm có sẵn trong kho của bạn. Theo mặc định, số lượng được đặt thành 0, có nghĩa là sản phẩm sẽ xuất hiện với dòng chữ **Hết hàng** trên giao diện cửa hàng.
 
 #### Danh mục
 
-Trong phần này, chỉ định sản phẩm cho một hoặc nhiều danh mục có sẵn trong cửa hàng của bạn. Danh mục giúp sắp xếp sản phẩm và giúp khách hàng duyệt và tìm thấy chúng trên mặt tiền cửa hàng dễ dàng hơn.
+Trong phần này, chỉ định sản phẩm cho một hoặc nhiều danh mục có sẵn trong cửa hàng của bạn. Danh mục giúp sắp xếp sản phẩm và giúp khách hàng duyệt và tìm thấy chúng trên giao diện cửa hàng dễ dàng hơn.
 
 Bạn có thể chọn nhiều danh mục để đảm bảo sản phẩm của bạn được hiển thị tốt hơn.
 
@@ -184,7 +184,7 @@ Nhấp vào nút **Lưu sản phẩm**. Thao tác này sẽ thêm sản phẩm v
 
 ### Admin Dashboard
 
-Từ Bảng điều khiển dành cho quản trị viên, quản trị viên có quyền phê duyệt hoặc từ chối các sản phẩm do người bán tạo ra. Chỉ những sản phẩm được phê duyệt mới xuất hiện trên mặt tiền cửa hàng.
+Từ Bảng điều khiển dành cho quản trị viên, quản trị viên có quyền phê duyệt hoặc từ chối các sản phẩm do người bán tạo ra. Chỉ những sản phẩm được phê duyệt mới xuất hiện trên giao diện cửa hàng.
 
 Đi tới **Thị trường >> Sản phẩm** để xem và quản lý tất cả sản phẩm của bạn từ bảng điều khiển người bán.
 
@@ -202,7 +202,7 @@ Từ Bảng điều khiển dành cho quản trị viên, quản trị viên có
 
 <ImagePopup src="/images/multi-vendor-marketplace/17-admin-update-status.png" alt="Admin Update Status" />
 
-**Lưu ý:** Sau khi sản phẩm được phê duyệt, sản phẩm sẽ hiển thị là **Đã phê duyệt** trên trang tổng quan của người bán và cũng sẽ hiển thị trên mặt tiền cửa hàng cho khách hàng.
+**Lưu ý:** Sau khi sản phẩm được phê duyệt, sản phẩm sẽ hiển thị là **Đã phê duyệt** trên trang tổng quan của người bán và cũng sẽ hiển thị trên giao diện cửa hàng cho khách hàng.
 
 ### Giao diện cửa hàng
 

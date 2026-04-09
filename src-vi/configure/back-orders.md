@@ -4,7 +4,7 @@
 
 Một đơn hàng đặt sẵn có thể quản lý được với thời gian quay vòng ngắn là một điều tích cực, nhưng một đơn hàng đặt sẵn lớn với thời gian chờ đợi lâu hơn có thể có vấn đề.
 
-Bạn có thể dễ dàng quản lý **Đơn đặt hàng trước** bằng cách đi tới Bảng quản trị và nhấp vào **Định cấu hình >> Khoảng không quảng cáo**.
+Bạn có thể dễ dàng quản lý **Đơn đặt hàng trước** bằng cách đi tới bảng quản trị và nhấp vào **Cấu hình >> Khoảng không quảng cáo**.
 
 Có một tùy chọn hiện diện để **Bật hoặc Tắt** Đơn hàng đặt sẵn và sau đó nhấp vào **Lưu cấu hình** như hiển thị bên dưới.
 

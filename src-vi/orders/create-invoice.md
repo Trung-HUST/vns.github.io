@@ -6,7 +6,7 @@ Quản trị viên có thể kiểm tra chi tiết nhập số lượng vào hó
 
 Hóa đơn được sử dụng để xác nhận giao dịch thương mại điện tử và cung cấp xác nhận đơn hàng chi tiết cho khách hàng. 
 
-Điều đó có nghĩa là, một số người bán giữa doanh nghiệp với doanh nghiệp có thể cung cấp tín dụng—đơn hàng sẽ được đặt trước và hóa đơn sẽ được gửi sau để yêu cầu thanh toán
+Điều đó có nghĩa là một số người bán B2B có thể cung cấp tín dụng: đơn hàng sẽ được đặt trước và hóa đơn sẽ được gửi sau để yêu cầu thanh toán.
 
 Một tài liệu thương mại được chia thành từng khoản ghi lại các sản phẩm hoặc dịch vụ được giao cho khách hàng, tổng số tiền đến hạn và phương thức thanh toán ưu tiên. 
 

@@ -18,7 +18,7 @@
 
 <ImagePopup src="/images/configure/design.png" alt="Design Configuration" />
 
-** Đầu ra Logo & Favicon được cập nhật **
+**Kết quả Logo & Favicon đã cập nhật**
 
 Sau khi lưu cấu hình, **Logo quản trị** và **Favicon** mới sẽ hiển thị trong giao diện bảng quản trị.
 
@@ -28,9 +28,9 @@ Sau khi lưu cấu hình, **Logo quản trị** và **Favicon** mới sẽ hiể
 **Biểu tượng yêu thích**
 <ImagePopup src="/images/configure/designOutput2.png" alt="Updated Favicon" />
 
-**Chế độ xem danh mục menu**
+**Chế độ hiển thị danh mục trong menu**
 
-VNS v2.3.x đã giới thiệu một tùy chọn mới để định cấu hình cách hiển thị danh mục sản phẩm trong menu mặt tiền cửa hàng.
+VNS v2.3.x đã giới thiệu một tùy chọn mới để cấu hình cách hiển thị danh mục sản phẩm trong menu giao diện cửa hàng.
 
 Bây giờ bạn có thể chọn giữa:
 
@@ -40,14 +40,14 @@ Bây giờ bạn có thể chọn giữa:
 ### Để cập nhật Menu Danh mục Xem:
 
 1. Điều hướng tới **Bảng quản trị → Cấu hình → Thiết kế**.
-2. Scuộn xuống phần **Cài đặt tiêu đề**.
+2. Cuộn xuống phần **Cài đặt tiêu đề**.
 3. Trong **Chế độ xem menu danh mục**, chọn:
    - `Default Menu` hoặc
    - `Sidebar Menu` từ danh sách thả xuống.
-4. Click **Save Configuration**.
+4. Nhấp vào **Lưu cấu hình**.
 
 <ImagePopup src="/images/configure/catAdmin.png" alt="Menu Category View Setting" />
 
-**Chế độ xem mặt tiền cửa hàng**
+**Chế độ xem giao diện cửa hàng**
 
 <ImagePopup src="/images/configure/catSide.png" alt="Shopfront Menu Category View" />

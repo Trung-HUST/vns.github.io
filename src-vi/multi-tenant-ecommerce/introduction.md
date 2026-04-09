@@ -1,37 +1,37 @@
-# Thương mại điện tử dành cho nhiều người thuê 
+# Thương mại điện tử nhiều người thuê
 
-[Thương mại điện tử nhiều người thuê](https://bagisto.com/en/laravel-multi-tenant-saas/) tại VNS cho phép các doanh nghiệp xây dựng nền tảng thị trường dựa trên SaaS, nơi nhiều nhà cung cấp hoặc người bán có thể tạo và quản lý các cửa hàng riêng lẻ của riêng họ trong một hệ thống duy nhất.
+[Thương mại điện tử nhiều người thuê](https://bagisto.com/en/laravel-multi-tenant-saas/) tại VNS cho phép doanh nghiệp xây dựng nền tảng SaaS, nơi nhiều nhà cung cấp hoặc người bán có thể tạo và quản lý cửa hàng riêng của họ trong cùng một hệ thống.
 
-Mỗi người thuê (người bán) có một mặt tiền cửa hàng chuyên dụng với toàn quyền kiểm soát các sản phẩm, danh mục, đơn đặt hàng và khách hàng, trong khi chủ sở hữu nền tảng quản lý cơ sở hạ tầng tổng thể, đăng ký và mô hình doanh thu. Thiết lập này giúp giảm chi phí hoạt động cho người bán vì họ không cần đầu tư vào việc phát triển hoặc lưu trữ thương mại điện tử riêng biệt.
+Mỗi người thuê (người bán) có một giao diện cửa hàng riêng với toàn quyền kiểm soát sản phẩm, danh mục, đơn hàng và khách hàng, trong khi chủ nền tảng quản lý toàn bộ hạ tầng, đăng ký và mô hình doanh thu. Cách làm này giúp giảm chi phí vận hành cho người bán vì họ không cần đầu tư vào một hệ thống thương mại điện tử riêng.
 
 ### Quản lý quản trị viên cấp cao 
 
-Vị trí Quản trị viên cấp cao là người có thẩm quyền cao nhất trong trung tâm mua sắm SaaS, chịu trách nhiệm giám sát người thuê, nhân viên và toàn bộ hoạt động của nền tảng.
+Quản trị viên cấp cao là người có quyền cao nhất trong hệ thống SaaS, chịu trách nhiệm giám sát người thuê, nhân viên và toàn bộ hoạt động của nền tảng.
 
-Vai trò này bao gồm quản lý người bán (người thuê), giao vai trò cho nhân viên (đại lý) và đảm bảo mọi thứ hoạt động tốt với nhau trong hệ thống.
+Vai trò này bao gồm quản lý người bán (người thuê), phân quyền cho nhân viên (đại lý) và đảm bảo mọi thứ vận hành trơn tru trong hệ thống.
 
-Quản trị viên cấp cao thiết lập những sản phẩm hiển thị, quản lý kênh và thiết kế chủ đề để duy trì giao diện và thương hiệu nhất quán cho tất cả các cửa hàng thuê.
+Quản trị viên cấp cao cũng thiết lập sản phẩm hiển thị, quản lý kênh và thiết kế giao diện để giữ trải nghiệm và thương hiệu nhất quán cho tất cả các cửa hàng thuê.
 
-Họ cũng quản lý các trang CMS, gửi email và quản lý cài đặt chung để đảm bảo giao tiếp rõ ràng và quản trị nền tảng phù hợp.
+Họ cũng quản lý các trang CMS, email và cài đặt chung để đảm bảo giao tiếp rõ ràng và quản trị nền tảng tốt hơn.
 
-### TQuản lý thuê nhà
+### Quản lý người thuê
 
-Quản lý người thuê trong SaaS giúp người thuê dễ dàng đăng ký và nhanh chóng tạo cửa hàng trực tuyến bằng cách điền thông tin đăng nhập, cá nhân và tổ chức của họ.
+Quản lý người thuê trong SaaS giúp người thuê đăng ký và tạo cửa hàng trực tuyến nhanh chóng bằng cách điền thông tin đăng nhập, cá nhân và tổ chức của họ.
 
-Sau khi họ đăng ký, mặt tiền cửa hàng của người thuê sẽ được thiết lập tự động nên họ có thể bắt đầu bán hàng ngay lập tức mà không gặp bất kỳ khó khăn kỹ thuật nào.
+Sau khi đăng ký, giao diện cửa hàng của người thuê sẽ tự động được thiết lập để họ có thể bắt đầu bán hàng ngay mà không gặp trở ngại kỹ thuật nào.
 
-Sử dụng Bảng quản trị người thuê, người thuê có thể quản lý sản phẩm, danh mục, thuộc tính, khách hàng, v.v. thông qua giao diện thân thiện với người dùng tương tự như VNS.
+Sử dụng bảng quản trị của người thuê, người thuê có thể quản lý sản phẩm, danh mục, thuộc tính, khách hàng, v.v. qua giao diện thân thiện giống VNS.
 
-Người thuê cũng có thể quản lý đơn đặt hàng bằng cách lập hóa đơn, thiết lập lô hàng và sử dụng các tùy chọn menu khác để vận hành cửa hàng của mình một cách hiệu quả.
+Người thuê cũng có thể quản lý đơn hàng bằng cách lập hóa đơn, tạo lô hàng và dùng các tùy chọn menu khác để vận hành cửa hàng hiệu quả.
 
-Bản đồ tên ### C
+### Ánh xạ CNAME
 
-Bản đồ CName cho phép người thuê kết nối tên miền của riêng họ với tên miền phụ do SaaS tạo ra, giúp xây dựng thương hiệu chuyên nghiệp.
+Ánh xạ CNAME cho phép người thuê kết nối tên miền riêng của họ với tên miền phụ do SaaS tạo ra, giúp xây dựng thương hiệu chuyên nghiệp.
 
-Khi người thuê đăng ký, một tên miền phụ mặc định như **username.rootdomain.com** sẽ được tạo. Với CNAME, tên miền thực của họ có thể được chuyển hướng đến tên miền phụ này.
+Khi người thuê đăng ký, một tên miền phụ mặc định như **username.rootdomain.com** sẽ được tạo. Với CNAME, tên miền thật của họ có thể trỏ về tên miền phụ này.
 
-Điều này giúp khách hàng dễ dàng tìm thấy cửa hàng và giữ được hình ảnh trực tuyến đáng tin cậy, nhất quán.
+Điều này giúp khách hàng tìm thấy cửa hàng dễ hơn và giữ được hình ảnh trực tuyến nhất quán, đáng tin cậy.
 
-Ánh xạ được thiết lập thông qua nhà cung cấp DNS của đối tượng thuê và SaaS bởi Quản trị viên cấp cao và không cần bất kỳ plugin bổ sung nào.
+Việc ánh xạ được thiết lập thông qua nhà cung cấp DNS của người thuê và SaaS dưới quyền quản trị viên cấp cao, không cần thêm plugin nào khác.
 
 <ImagePopup src="/images/multi-tenant-ecommerce/multi-tenant.webp" alt="Super Admin Login" />

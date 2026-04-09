@@ -80,7 +80,7 @@ Nhấp vào **Lưu** để thêm sản phẩm vào cửa hàng của bạn. Ban 
 
 ### Admin Panel: Quản lý sản phẩm đại lý
 
-Từ Bảng điều khiển dành cho quản trị viên, quản trị viên có thể phê duyệt hoặc từ chối các sản phẩm do đại lý thêm vào. Chỉ những mặt hàng được phê duyệt mới xuất hiện trên mặt tiền cửa hàng.
+Từ Bảng điều khiển dành cho quản trị viên, quản trị viên có thể phê duyệt hoặc từ chối các sản phẩm do đại lý thêm vào. Chỉ những mặt hàng được phê duyệt mới xuất hiện trên giao diện cửa hàng.
 
 Điều này đảm bảo các sản phẩm trong danh mục chính luôn nhất quán trên tất cả danh sách đại lý.
 
@@ -100,7 +100,7 @@ Từ Bảng điều khiển dành cho quản trị viên, quản trị viên có
 
 <ImagePopup src="/images/multi-vendor-marketplace/11-select-action.png" alt="Global Commission Configuration" />
 
-Sau khi sản phẩm được phê duyệt, sản phẩm sẽ hiển thị là Đã phê duyệt trên trang Sản phẩm của nhà cung cấp và trong danh sách nhà cung cấp, đồng thời cũng sẽ hiển thị trên mặt tiền cửa hàng cho khách hàng.
+Sau khi sản phẩm được phê duyệt, sản phẩm sẽ hiển thị là Đã phê duyệt trên trang Sản phẩm của nhà cung cấp và trong danh sách nhà cung cấp, đồng thời cũng sẽ hiển thị trên giao diện cửa hàng cho khách hàng.
 
 <ImagePopup src="/images/multi-vendor-marketplace/12-admin-approved-states.png" alt="Global Commission Configuration" />
 
@@ -112,7 +112,7 @@ Sau khi được phê duyệt, các thay đổi sẽ được phản ánh về p
 
 ### Xem cửa hàng
 
-Sản phẩm được phê duyệt xuất hiện trên mặt tiền cửa hàng để khách hàng duyệt và mua.
+Sản phẩm được phê duyệt xuất hiện trên giao diện cửa hàng để khách hàng xem và mua.
 
 <ImagePopup src="/images/multi-vendor-marketplace/14-store-frontend-view.png" alt="Global Commission Configuration" />
 

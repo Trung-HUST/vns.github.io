@@ -10,7 +10,7 @@ Tính năng Tải lên hàng loạt danh mục người bán cho phép người 
 
 <ImagePopup src="/images/multi-vendor-marketplace/2-data-transfer-settings.webp" alt="Customer Email and Password" />
 
-**Bước 2: Định cấu hình cài đặt nhập**
+**Bước 2: Cấu hình cài đặt nhập**
 
 Trong Cấu hình chung, điền vào các chi tiết sau:
 
@@ -18,7 +18,7 @@ Trong Cấu hình chung, điền vào các chi tiết sau:
 
 **2) Tệp:** Tải tệp sản phẩm lên ở định dạng CSV, XLS hoặc XLSX. Đảm bảo tất cả các trường bắt buộc được điền chính xác.
 
-**Lưu ý:** Điều này hỗ trợ các loại sản phẩm Đơn giản, Có thể định cấu hình, Đóng gói và Nhóm.
+**Lưu ý:** Điều này hỗ trợ các loại sản phẩm Đơn giản, Có thể cấu hình, Đóng gói và Nhóm.
 
 **3) Tải xuống mẫu:** Tải xuống tệp sản phẩm mẫu và đảm bảo tệp tải lên của bạn có cùng định dạng.
 

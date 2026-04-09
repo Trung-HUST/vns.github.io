@@ -26,7 +26,7 @@ Nhấp vào **Lưu chủ đề** để tiếp tục.
 
 ###  Băng chuyền sản phẩm 
 
-**Bước 3:** Nếu bạn đã chọn băng chuyền sản phẩm, hãy định cấu hình như sau:  
+**Bước 3:** Nếu bạn đã chọn băng chuyền sản phẩm, hãy cấu hình như sau:  
 
 **1. Tiêu đề:** Nhập tiêu đề cho băng chuyền.  
 **2. Thứ tự sắp xếp:** Xác định thứ tự.  

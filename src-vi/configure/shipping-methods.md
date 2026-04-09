@@ -1,7 +1,7 @@
 # Phương thức vận chuyển
 
 Để giao hàng, VNS cung cấp hai loại hình thức vận chuyển.  
-Để định cấu hình, hãy đi tới Bảng quản trị và điều hướng đến **Cấu hình >> Phương thức vận chuyển**.
+Để cấu hình, hãy đi tới bảng quản trị và điều hướng đến **Cấu hình >> Phương thức vận chuyển**.
 
 ### 1) Miễn phí vận chuyển
 
@@ -13,7 +13,7 @@ Vận chuyển giá cố định là phương thức tính phí vận chuyển c
 
 <ImagePopup src="/images/configure/shippingMethods.png" alt="Shipping Methods Configuration" />
 
-Sau khi thực hiện thay đổi, nhấp vào nút **Save Configuration**.
+Sau khi thực hiện thay đổi, nhấp vào nút **Lưu cấu hình**.
 
 ### Giao diện phương thức vận chuyển
 

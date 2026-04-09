@@ -1,8 +1,8 @@
-# Mặt tiền cửa hàng (Kênh)
+# Kênh cửa hàng
 
-VNS cho phép bạn thiết lập và quản lý nhiều miền hoặc cửa hàng trong một chương trình phụ trợ duy nhất. Hướng dẫn này giải thích cách tạo nhiều trang web với các tên miền khác nhau trong VNS.
+VNS cho phép bạn thiết lập và quản lý nhiều miền hoặc cửa hàng trong một hệ thống quản trị duy nhất. Hướng dẫn này giải thích cách tạo nhiều website với các tên miền khác nhau trong VNS.
 
-### Tạo mặt tiền cửa hàng tại VNS
+### Tạo kênh cửa hàng tại VNS
 
 **Bước 1:** Đi tới **Cài đặt >> Kênh >> Tạo kênh**.
 
@@ -19,7 +19,7 @@ VNS cho phép bạn thiết lập và quản lý nhiều miền hoặc cửa hà
 
 <ImagePopup src="/images/settings/general.png" alt="General" />
 
-### Tiền tệ và Địa điểm
+### Ngôn ngữ và tiền tệ
 
 **1. Ngôn ngữ:** Chọn một hoặc nhiều ngôn ngữ cho cửa hàng.  
 **2. Ngôn ngữ mặc định:** Chọn ngôn ngữ mặc định.  
@@ -39,7 +39,7 @@ Tải lên biểu trưng cho giao diện người dùng và nhấp vào **Lưu k
 
 <ImagePopup src="/images/settings/frontendLogos.png" alt="Frontend Logo" />
 
-### Logo trên Frontend
+### Logo trên giao diện cửa hàng
 
 Logo được cập nhật sẽ hiển thị trên giao diện người dùng.
 
@@ -51,13 +51,13 @@ Tải lên biểu tượng yêu thích cho giao diện người dùng và nhấp
 
 <ImagePopup src="/images/settings/frontendFavicon.png" alt="Frontend Favicon" />
 
-### Favicon trên Frontend
+### Favicon trên giao diện cửa hàng
 
 Favicon được cập nhật sẽ hiển thị ở giao diện người dùng.
 
 <ImagePopup src="/images/settings/faviconOutput.png" alt="Frontend Favicon Output" />
 
-### SEO Trang Chủ
+### SEO trang chủ
 
 **1. Meta Title:** Nhập tiêu đề chính cho SEO.  
 **2. Từ khóa Meta:** Cung cấp từ khóa để hiển thị tìm kiếm tốt hơn.  
@@ -75,10 +75,10 @@ Chế độ bảo trì cho phép bạn tạm thời vô hiệu hóa cửa hàng 
 
 <ImagePopup src="/images/settings/maintenanceMode.png" alt="Maintenance Mode" />
 
-### Mặt tiền cửa hàng đã được tạo
+### Kênh cửa hàng đã được tạo
 
 Sau khi lưu, Cửa hàng mới của bạn sẽ được liệt kê.
 
 <ImagePopup src="/images/settings/channelGrid.png" alt="Storefront Grid" />
 
-Bây giờ bạn đã tạo thành công **Mặt tiền cửa hàng** mới trong VNS.
+Bây giờ bạn đã tạo thành công **kênh cửa hàng** mới trong VNS.

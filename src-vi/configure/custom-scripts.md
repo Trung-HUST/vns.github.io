@@ -6,7 +6,7 @@ Tại đây, trong phần quy định này, Quản trị viên có thể viết 
 
 **Các bước để thêm tập lệnh tùy chỉnh**
 
-Để thêm **Tập lệnh tùy chỉnh**, hãy đi tới bảng Quản trị: **Định cấu hình >> Nội dung**. Bạn sẽ thấy các tùy chọn sau:
+Để thêm **Tập lệnh tùy chỉnh**, hãy đi tới bảng quản trị: **Cấu hình >> Nội dung**. Bạn sẽ thấy các tùy chọn sau:
 
 ### CSS tùy chỉnh
 
@@ -20,7 +20,7 @@ Bây giờ màu nền của cửa hàng đã thay đổi, như hiển thị bên
 
 ### JS tùy chỉnh
 
-Bạn có thể áp dụng JavaScript theo yêu cầu của mình và nhấp vào nút **Save Configuration**.
+Bạn có thể áp dụng JavaScript theo yêu cầu của mình và nhấp vào nút **Lưu cấu hình**.
 
 <ImagePopup src="/images/configure/js.png" alt="Custom JS" />
 

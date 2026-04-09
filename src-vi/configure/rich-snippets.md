@@ -2,7 +2,7 @@
 
 Đoạn mã chi tiết (hoặc "Kết quả nhiều định dạng") là kết quả tìm kiếm nâng cao của Google hiển thị thông tin bổ sung được lấy từ dữ liệu có cấu trúc trong HTML của trang.
 
-Để định cấu hình, hãy đi tới Bảng điều khiển quản trị và điều hướng đến **Định cấu hình >> Đoạn trích phong phú**.
+Để cấu hình, hãy đi tới bảng quản trị và điều hướng đến **Cấu hình >> Đoạn trích phong phú**.
 
 ### Sản phẩm
 

@@ -3,7 +3,7 @@
 **A) Danh mục thuế**  
 Danh mục thuế là sự phân loại cho các loại thuế khác nhau, chẳng hạn như thuế bán hàng, thuế giá trị gia tăng hoặc thuế tiêu thụ đặc biệt, được sử dụng để phân loại và áp dụng thuế suất cho sản phẩm hoặc dịch vụ.
 
-Để định cấu hình, hãy đi tới Bảng quản trị và nhấp vào **Cấu hình >> Thuế**.
+Để cấu hình, hãy đi tới bảng quản trị và nhấp vào **Cấu hình >> Thuế**.
 
 **B) Cài đặt tính toán**  
 Cài đặt tính toán xác định cách áp dụng giá và thuế sản phẩm.

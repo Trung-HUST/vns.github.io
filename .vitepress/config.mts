@@ -313,7 +313,7 @@ export default defineConfig({
        (function () {
        let script = document.createElement('script');
 
-       script.innerHTML = 'window.chatbotConfig = { url: "https://ask.bagisto.com:5000/chat" };';
+       script.innerHTML = 'window.chatbotConfig = { url: "https://ask.VNS.com:5000/chat" };';
 
        document.body.appendChild(script);
        })();;
@@ -322,7 +322,7 @@ export default defineConfig({
     [
       'script',
       {
-        src: 'https://bagisto.github.io/ai-chatbot/chatbot.js',
+        src: 'https://VNS.github.io/ai-chatbot/chatbot.js',
         async: true
       }
     ],
@@ -332,17 +332,17 @@ export default defineConfig({
       {},
       `
       (function () {
-        function isBagistoLink(href) {
+        function isVNSLink(href) {
           if (!href) return false;
           try {
             var url = new URL(href, window.location.origin);
             var host = (url.hostname || '').toLowerCase();
             var path = (url.pathname || '').toLowerCase();
 
-            // Bagisto domains + Bagisto GitHub org
-            if (host === 'bagisto.com' || host.endsWith('.bagisto.com')) return true;
-            if (host === 'bagisto.github.io') return true;
-            if (host === 'github.com' && path.startsWith('/bagisto/')) return true;
+            // VNS domains + VNS GitHub org
+            if (host === 'VNS.com' || host.endsWith('.VNS.com')) return true;
+            if (host === 'VNS.github.io') return true;
+            if (host === 'github.com' && path.startsWith('/VNS/')) return true;
             return false;
           } catch (e) {
             return false;
@@ -359,7 +359,7 @@ export default defineConfig({
             if (!anchor) return;
 
             var href = anchor.getAttribute('href') || '';
-            if (!isBagistoLink(href)) return;
+            if (!isVNSLink(href)) return;
 
             event.preventDefault();
             event.stopPropagation();
@@ -388,14 +388,14 @@ export default defineConfig({
           { text: 'English', link: '/en/' },
         ]
       },
-      { text: 'Tài liệu Dev', link: 'https://devdocs.bagisto.com/' },
-      { text: 'Tiện ích mở rộng', link: 'https://bagisto.com/en/extensions/' },
-      { text: 'Diễn đàn cộng đồng', link: 'https://forums.bagisto.com/' },
-      { text: 'Liên hệ', link: 'https://bagisto.com/en/contacts/' }
+      { text: 'Tài liệu Dev', link: 'https://devdocs.VNS.com/' },
+      { text: 'Tiện ích mở rộng', link: 'https://VNS.com/en/extensions/' },
+      { text: 'Diễn đàn cộng đồng', link: 'https://forums.VNS.com/' },
+      { text: 'Liên hệ', link: 'https://VNS.com/en/contacts/' }
     ],
 
     editLink: {
-      pattern: 'https://github.com/bagisto/user-guide/edit/master/src-vi/:path',
+      pattern: 'https://github.com/VNS/user-guide/edit/master/src-vi/:path',
       text: 'Góp ý/cải thiện trang này trên GitHub.'
     },
 
@@ -664,7 +664,7 @@ export default defineConfig({
     },
     
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/bagisto/bagisto' }
+      { icon: 'github', link: 'https://github.com/VNS/VNS' }
     ],
 
     search: {

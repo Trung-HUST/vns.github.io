@@ -1,11 +1,11 @@
-"""Translate the Bagisto *User Guide* VitePress site into Vietnamese.
+"""Translate the VNS *User Guide* VitePress site into Vietnamese.
 
 What it does
 - Reads Markdown files under --src (default: src)
 - Writes translated Markdown to --out (default: src-vi)
 - Preserves fenced code blocks and HTML/component-only lines (e.g. <ImagePopup ... />)
 - Preserves inline code spans and link targets (URLs) via placeholders
-- Replaces the product name in translatable text: Bagisto -> VNS (default)
+- Replaces the product name in translatable text: VNS -> VNS (default)
 - Copies static assets from src/public -> out/public
 
 Notes
@@ -34,7 +34,7 @@ import yaml
 from deep_translator import GoogleTranslator
 
 
-DEFAULT_REPLACEMENTS = [(re.compile(r"\bBagisto\b", flags=re.IGNORECASE), "VNS")]
+DEFAULT_REPLACEMENTS = [(re.compile(r"\bVNS\b", flags=re.IGNORECASE), "VNS")]
 
 # Keys whose values should never be translated in YAML frontmatter
 YAML_SKIP_KEYS = {

@@ -1,10 +1,10 @@
-# Bagisto Documentation
+# VNS Documentation
 
-You can find the online version of the Bagisto documentation at [https://docs.bagisto.com](https://docs.bagisto.com).
+You can find the online version of the VNS documentation at [https://docs.VNS.com](https://docs.VNS.com).
 
 ## Contribution Guide
 
-We welcome contributions to improve the Bagisto documentation! Follow these steps to get started:
+We welcome contributions to improve the VNS documentation! Follow these steps to get started:
 
 ### Getting Started
 

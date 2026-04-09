@@ -1,6 +1,6 @@
 # Ứng dụng di động bản địa
 
-[VNS Mobile App](https://github.com/bagisto/opensource-ecommerce-mobile-app) đang thay đổi cuộc chơi trong lĩnh vực mua sắm với giải pháp ứng dụng di động Thương mại điện tử nguồn mở. 
+[VNS Mobile App](https://github.com/VNS/opensource-ecommerce-mobile-app) đang thay đổi cuộc chơi trong lĩnh vực mua sắm với giải pháp ứng dụng di động Thương mại điện tử nguồn mở. 
 
 Ứng dụng này dễ dàng biến cửa hàng VNS của bạn thành một nền tảng di động mạnh mẽ, cho phép cập nhật các sản phẩm, danh mục, v.v. theo thời gian thực.
 
@@ -14,11 +14,11 @@ Với giao diện đơn giản, việc xử lý đơn hàng cực kỳ dễ dàn
 
 **Android:** Tải ứng dụng từ Cửa hàng Google Play:
 
-https://play.google.com/store/apps/details?id=com.webkul.bagisto.mobikul
+https://play.google.com/store/apps/details?id=com.webkul.VNS.mobikul
 
 **iOS:** Tải ứng dụng từ Apple App Store:
 
-https://apps.apple.com/us/app/mobikul-bagisto-laravel-app/id6447519140
+https://apps.apple.com/us/app/mobikul-VNS-laravel-app/id6447519140
 
 ### Yêu cầu
 

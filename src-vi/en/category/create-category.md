@@ -1,12 +1,12 @@
-# How to Create Categories in Bagisto
+# How to Create Categories in VNS
 
-The category is a structure of your catalog. By creating a category, customers can easily find the specific product amongst the lot on your e-commerce website. It is used for making the hierarchical arrangement of your website. Here we have listed down steps to create a new category and root category in Bagisto.
+The category is a structure of your catalog. By creating a category, customers can easily find the specific product amongst the lot on your e-commerce website. It is used for making the hierarchical arrangement of your website. Here we have listed down steps to create a new category and root category in VNS.
 
 ### Root Category
 
-Bagisto comes with a default root category, i.e., Root, but you can also create your own root category. The Root Category is not visible on the front end because it acts as a container to contain the categories to be displayed on the website.
+VNS comes with a default root category, i.e., Root, but you can also create your own root category. The Root Category is not visible on the front end because it acts as a container to contain the categories to be displayed on the website.
 
-### Steps to Create a New Root Category in Bagisto
+### Steps to Create a New Root Category in VNS
 
 1. Click on **Catalog >> Categories >> Create Category** as shown in the image below.
 

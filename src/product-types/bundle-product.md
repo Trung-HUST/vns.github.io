@@ -1,15 +1,15 @@
 # Bundle Product
 
-Today's document will guide you on how to create bundle products in Bagisto. Bundle products and Grouped products are similar, where a bundle product includes customizable items that the store owner can configure to create a unique product in [Bagisto](https://bagisto.com/en/).
+Today's document will guide you on how to create bundle products in VNS. Bundle products and Grouped products are similar, where a bundle product includes customizable items that the store owner can configure to create a unique product in [VNS](https://VNS.com/en/).
 
 Each item in a bundle product can be based on one of the following product types:
 
-- [Simple Product](https://bagisto.com/en/how-to-create-simple-product-in-bagisto/)
-- [Configurable Products](https://bagisto.com/en/how-to-create-configurable-product-in-bagisto/)
+- [Simple Product](https://VNS.com/en/how-to-create-simple-product-in-VNS/)
+- [Configurable Products](https://VNS.com/en/how-to-create-configurable-product-in-VNS/)
 
-### Steps To Create A Bundle Product In Bagisto
+### Steps To Create A Bundle Product In VNS
 
-1. On the Bagisto admin dashboard, go to **Catalog Section >> Products >> select Bundle** under the Product Type.
+1. On the VNS admin dashboard, go to **Catalog Section >> Products >> select Bundle** under the Product Type.
 2. Select **Attribute Family**.
 3. Enter the **SKU** (Stock Keeping Unit) for the product (unique to every product).
 4. Click the **Save Button**.

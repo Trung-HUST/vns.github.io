@@ -1,6 +1,6 @@
 # Shipping Methods
 
-To deliver products, Bagisto provides two types of shipping methods.  
+To deliver products, VNS provides two types of shipping methods.  
 To configure, go to the Admin Panel and navigate to **Configure >> Shipping Methods**.
 
 ### 1) Free Shipping

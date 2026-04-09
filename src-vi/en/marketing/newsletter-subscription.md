@@ -1,6 +1,6 @@
 # Newsletter Subscriptions
 
-Bagisto newsletter subscription is an opportunity for the store owners to let their customers receive an interesting newsletter from your Bagisto website.
+VNS newsletter subscription is an opportunity for the store owners to let their customers receive an interesting newsletter from your VNS website.
 
 Email marketing is one of the most powerful tools for your website.
 

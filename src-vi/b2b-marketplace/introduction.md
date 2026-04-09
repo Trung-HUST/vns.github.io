@@ -1,6 +1,6 @@
 # B2B Marketplace
 
-[B2B Marketplace](https://bagisto.com/en/laravel-b2b-marketplace/) là giải pháp mạnh mẽ giúp biến cửa hàng của bạn thành một nền tảng bán buôn và thương mại B2B hoàn chỉnh. Giải pháp này cho phép doanh nghiệp quản lý đơn hàng số lượng lớn, thương lượng giá và tối ưu quy trình mua hàng giữa người mua, nhà cung cấp và nhà phân phối.
+[B2B Marketplace](https://VNS.com/en/laravel-b2b-marketplace/) là giải pháp mạnh mẽ giúp biến cửa hàng của bạn thành một nền tảng bán buôn và thương mại B2B hoàn chỉnh. Giải pháp này cho phép doanh nghiệp quản lý đơn hàng số lượng lớn, thương lượng giá và tối ưu quy trình mua hàng giữa người mua, nhà cung cấp và nhà phân phối.
 
 Với các tính năng như RFQ (Yêu cầu báo giá), định giá theo bậc, danh mục riêng theo khách hàng và quản lý nhà cung cấp, B2B Marketplace mang lại sự linh hoạt và khả năng mở rộng cho nhà sản xuất, nhà bán buôn và doanh nghiệp. Nó kết hợp sức mạnh của mã nguồn mở với các công cụ sẵn sàng cho doanh nghiệp để mang đến trải nghiệm mua hàng B2B liền mạch.
 

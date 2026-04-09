@@ -8,49 +8,49 @@ Thay vì xây dựng mọi sản phẩm từ đầu, các đại lý có thể c
 
 Các đại lý cũng có thể chỉ định sản phẩm từ danh mục chính, giúp việc liệt kê các sản phẩm đã tồn tại trong hệ thống thị trường trở nên đơn giản.
 
-### Danh sách nhà cung cấp từ Central Catalog
+### Danh sách đại lý từ danh mục trung tâm
 
-Tính năng Danh sách nhà cung cấp cho phép khách hàng xem tất cả người bán ở một nơi.
+Tính năng Danh sách đại lý cho phép khách hàng xem tất cả đại lý ở một nơi.
 
-<ImagePopup src="/images/multi-vendor-marketplace/1.1marketplace.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/1.1marketplace.png" alt="Danh mục thị trường" />
 
-Mỗi nhà cung cấp được hiển thị với các chi tiết quan trọng như tên cửa hàng, logo, địa chỉ, xếp hạng và số lượng đánh giá. 
+Mỗi đại lý được hiển thị với các chi tiết quan trọng như tên cửa hàng, logo, địa chỉ, xếp hạng và số lượng đánh giá.
 
 Điều này giúp người mua dễ dàng tìm thấy và khám phá những người bán khác nhau trên thị trường.
 
-<ImagePopup src="/images/multi-vendor-marketplace/2-vendor-listing-from-catlog.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/2-vendor-listing-from-catlog.png" alt="Danh sách đại lý từ danh mục trung tâm" />
 
-Khách hàng có thể nhấp vào bất kỳ nhà cung cấp nào để mở trang cửa hàng của họ, nơi họ có thể xem tất cả sản phẩm, đọc đánh giá và kiểm tra thông tin đầy đủ về người bán.
+Khách hàng có thể nhấp vào bất kỳ đại lý nào để mở trang cửa hàng của họ, nơi họ có thể xem tất cả sản phẩm, đọc đánh giá và kiểm tra thông tin đầy đủ về đại lý.
 
-<ImagePopup src="/images/multi-vendor-marketplace/3-vendor-profile-page.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/3-vendor-profile-page.png" alt="Trang hồ sơ đại lý" />
 
-Điều này giúp xây dựng niềm tin và giúp nhà cung cấp có nhiều khả năng hiển thị hơn để thu hút người mua và tăng doanh số bán hàng.
+Điều này giúp xây dựng niềm tin và giúp đại lý có nhiều khả năng hiển thị hơn để thu hút người mua và tăng doanh số bán hàng.
 
-### Thêm sản phẩm từ danh mục Marketplace
+### Thêm sản phẩm từ danh mục trung tâm
 
 Từ bảng điều khiển người bán, đi tới **Sản phẩm** và nhấp vào đó để mở trang sản phẩm.
 
-<ImagePopup src="/images/multi-vendor-marketplace/4-seller-dashboards.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/4-seller-dashboards.png" alt="Bảng điều khiển người bán" />
 
 Nhấp vào nút Thêm sản phẩm mới ở góc trên cùng bên phải để bắt đầu thêm sản phẩm mới vào cửa hàng của bạn.
 
-<ImagePopup src="/images/multi-vendor-marketplace/5-product-page.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/5-product-page.png" alt="Trang sản phẩm" />
 
-Trên trang Tìm kiếm Sản phẩm, đại lý có thể chỉ định một sản phẩm từ Danh mục Chính bằng cách tìm kiếm các mặt hàng đã có sẵn.
+Trên trang tìm kiếm sản phẩm, đại lý có thể chỉ định một sản phẩm từ danh mục chính bằng cách tìm kiếm các mặt hàng đã có sẵn.
 
-<ImagePopup src="/images/multi-vendor-marketplace/6-search-product.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/6-search-product.png" alt="Tìm kiếm sản phẩm" />
 
-Nhập tên sản phẩm vào thanh tìm kiếm để định vị nó trong danh mục thị trường.
+Nhập tên sản phẩm vào thanh tìm kiếm để định vị nó trong danh mục trung tâm.
 
-<ImagePopup src="/images/multi-vendor-marketplace/7-sell-as-your-product.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/7-sell-as-your-product.png" alt="Bán dưới dạng sản phẩm của bạn" />
 
 Hệ thống hiển thị các sản phẩm phù hợp trong kết quả tìm kiếm. Các đại lý có thể chọn một sản phẩm và bán trên danh sách hiện có bằng cách sử dụng giá và số lượng hàng tồn kho của chính họ.
 
-Nhấp vào **'Bán dưới dạng của bạn'** để tạo phiên bản cá nhân hóa của sản phẩm hiện có
+Nhấp vào **"Bán như sản phẩm của riêng bạn"** để tạo phiên bản cá nhân hóa của sản phẩm hiện có.
 
-### List Danh Mục Sản Phẩm Hiện Có
+### Sản phẩm có sẵn trong danh mục
 
-Nền tảng này cũng hỗ trợ tính năng danh mục sản phẩm hiện có trong danh mục sản phẩm, cho phép người bán nhanh chóng thêm sản phẩm từ danh mục chung mà không cần tạo lại thông tin sản phẩm.
+Nền tảng này cũng hỗ trợ tính năng thêm sản phẩm có sẵn trong danh mục chung, cho phép đại lý nhanh chóng thêm sản phẩm mà không cần tạo lại thông tin sản phẩm.
 
 Điều này giúp các đại lý tiết kiệm thời gian và đảm bảo dữ liệu sản phẩm luôn nhất quán trên thị trường.
 
@@ -70,23 +70,23 @@ Nhập tất cả các chi tiết cần thiết cho phiên bản cá nhân hóa 
 
 **6) Video:** Tùy chọn thêm video để khách hàng có cái nhìn rõ hơn về sản phẩm.
 
-<ImagePopup src="/images/multi-vendor-marketplace/8-product-updated-by-dealler.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/8-product-updated-by-dealler.png" alt="Sản phẩm đã cập nhật bởi đại lý" />
 
 Nhấp vào **Lưu** để thêm sản phẩm vào cửa hàng của bạn. Ban đầu, nó sẽ được đánh dấu là **Bị từ chối**.
 
-<ImagePopup src="/images/multi-vendor-marketplace/9-product-disapprove-states.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/9-product-disapprove-states.png" alt="Trạng thái sản phẩm chưa được phê duyệt" />
 
 **Lưu ý: Sau khi quản trị viên xem xét và phê duyệt, trạng thái sẽ thay đổi thành Đã phê duyệt và chỉ khi đó sản phẩm mới hiển thị trên giao diện người dùng của cửa hàng.**
 
-### Admin Panel: Quản lý sản phẩm đại lý
+### Bảng quản trị: Quản lý sản phẩm của đại lý
 
 Từ Bảng điều khiển dành cho quản trị viên, quản trị viên có thể phê duyệt hoặc từ chối các sản phẩm do đại lý thêm vào. Chỉ những mặt hàng được phê duyệt mới xuất hiện trên giao diện cửa hàng.
 
 Điều này đảm bảo các sản phẩm trong danh mục chính luôn nhất quán trên tất cả danh sách đại lý.
 
-Đi tới **Thị trường >> Sản phẩm** để xem và quản lý tất cả sản phẩm của bạn từ bảng điều khiển người bán.
+Đi tới **Thị trường >> Sản phẩm** để xem và quản lý tất cả sản phẩm từ bảng quản trị.
 
-<ImagePopup src="/images/multi-vendor-marketplace/10-admin-product-page.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/10-admin-product-page.png" alt="Trang sản phẩm của quản trị viên" />
 
 Để phê duyệt một sản phẩm, hãy làm theo các bước sau:
 
@@ -96,29 +96,29 @@ Từ Bảng điều khiển dành cho quản trị viên, quản trị viên có
 
 3) Nhấp vào Cập nhật trạng thái.
 
-4) Chọn Approved để phê duyệt sản phẩm.
+4) Chọn Đã phê duyệt để phê duyệt sản phẩm.
 
-<ImagePopup src="/images/multi-vendor-marketplace/11-select-action.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/11-select-action.png" alt="Chọn hành động" />
 
-Sau khi sản phẩm được phê duyệt, sản phẩm sẽ hiển thị là Đã phê duyệt trên trang Sản phẩm của nhà cung cấp và trong danh sách nhà cung cấp, đồng thời cũng sẽ hiển thị trên giao diện cửa hàng cho khách hàng.
+Sau khi sản phẩm được phê duyệt, sản phẩm sẽ hiển thị là Đã phê duyệt trên trang sản phẩm của đại lý và trong danh sách đại lý, đồng thời cũng sẽ hiển thị trên giao diện cửa hàng cho khách hàng.
 
-<ImagePopup src="/images/multi-vendor-marketplace/12-admin-approved-states.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/12-admin-approved-states.png" alt="Trạng thái sản phẩm đã được phê duyệt" />
 
 ### Xem trước sản phẩm – Phía đại lý
 
 Sau khi được phê duyệt, các thay đổi sẽ được phản ánh về phía đại lý, bao gồm mọi sản phẩm được thêm thông qua đại lý từ danh mục trung tâm.
 
-<ImagePopup src="/images/multi-vendor-marketplace/13-seller-side-preview.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/13-seller-side-preview.png" alt="Xem trước phía đại lý" />
 
 ### Xem cửa hàng
 
 Sản phẩm được phê duyệt xuất hiện trên giao diện cửa hàng để khách hàng xem và mua.
 
-<ImagePopup src="/images/multi-vendor-marketplace/14-store-frontend-view.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/14-store-frontend-view.png" alt="Giao diện cửa hàng" />
 
-Khách hàng cũng có thể nhấp vào “thêm 1 người bán đang bán sản phẩm này” để xem các đại lý khác cung cấp cùng mặt hàng, giúp việc so sánh và mua hàng dễ dàng hơn, đồng thời giúp các đại lý bán hàng trên danh sách hiện có hiệu quả hơn.
+Khách hàng cũng có thể nhấp vào “Xem thêm đại lý đang bán sản phẩm này” để xem các đại lý khác cung cấp cùng mặt hàng, giúp việc so sánh và mua hàng dễ dàng hơn, đồng thời giúp các đại lý bán hàng trên danh sách hiện có hiệu quả hơn.
 
-<ImagePopup src="/images/multi-vendor-marketplace/15-storefrontend-part-two.png" alt="Global Commission Configuration" />
+<ImagePopup src="/images/multi-vendor-marketplace/15-storefrontend-part-two.png" alt="Giao diện cửa hàng - phần hai" />
 
 
 

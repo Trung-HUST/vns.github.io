@@ -663,11 +663,6 @@ export default defineConfig({
       level: 'deep'
     },
     
-    footer: {
-      message: 'Phát hành theo <a href="https://opensource.org/licenses/mit" target="_blank" class="mit-license">giấy phép MIT</a>.',
-      copyright: `Copyright © ${new Date().getFullYear()} Webkul`
-    },
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/bagisto/bagisto' }
     ],

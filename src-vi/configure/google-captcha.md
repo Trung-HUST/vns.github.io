@@ -12,7 +12,7 @@ Ngay khi bạn nhấp vào nó, nút chuyển đổi Trạng thái sẽ xuất h
 
 ### Để lấy ID dự án Google Cloud:
 
-- Truy cập [Google Cloud Console](https://console.cloud.google.com/) 
+- Truy cập [Google Cloud Console](https://) 
 - Tạo một dự án mới hoặc chọn một dự án hiện có từ danh sách dự án thả xuống.
 - Lưu ý ID dự án của bạn từ bảng điều khiển dự án (không phải tên dự án).
 

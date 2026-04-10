@@ -2,7 +2,7 @@
 
 Tài liệu này hướng dẫn tạo sản phẩm ảo trên VNS. Trong cửa hàng thương mại điện tử, sản phẩm thường có thể được phân loại thành hai loại: vật chất và vô hình.
 
-Sản phẩm ảo thuộc danh mục sản phẩm vô hình, bao gồm tư cách thành viên, dịch vụ, bảo hành hoặc đăng ký trong [VNS](https://VNS.com/en/).
+Sản phẩm ảo thuộc danh mục sản phẩm vô hình, bao gồm tư cách thành viên, dịch vụ, bảo hành hoặc đăng ký trong [VNS](https://).
 
 Sản phẩm ảo, không giống như sản phẩm có thể tải xuống, không phải là thứ có thể tải xuống mà là một dịch vụ được cung cấp cho khách hàng.
 

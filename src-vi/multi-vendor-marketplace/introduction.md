@@ -1,6 +1,6 @@
 # Thị trường đa nhà cung cấp 
 
-[Chợ đa nhà cung cấp](https://VNS.com/en/laravel-multi-vendor-marketplace/) biến một cửa hàng tiêu chuẩn thành một thị trường hoàn chỉnh, cho phép quản trị viên quản lý người bán, hoa hồng, phê duyệt sản phẩm và xử lý đơn đặt hàng, đồng thời cung cấp cho nhà cung cấp một trang tổng quan chuyên dụng để quản lý danh mục, đơn đặt hàng và giao dịch của họ. 
+[Chợ đa nhà cung cấp](https://) biến một cửa hàng tiêu chuẩn thành một thị trường hoàn chỉnh, cho phép quản trị viên quản lý người bán, hoa hồng, phê duyệt sản phẩm và xử lý đơn đặt hàng, đồng thời cung cấp cho nhà cung cấp một trang tổng quan chuyên dụng để quản lý danh mục, đơn đặt hàng và giao dịch của họ. 
 
 ### Quản lý nhà cung cấp
 

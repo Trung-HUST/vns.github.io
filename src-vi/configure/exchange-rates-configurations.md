@@ -82,7 +82,7 @@ API tỷ giá trao đổi ###  (exchangerate-api.com):
 
 - Cấp miễn phí: 1.500 yêu cầu/tháng
 
-- Đăng ký: [https://www.exchangerate-api.com](https://www.exchangerate-api.com)
+- Đăng ký: [https://](https://)
 
 ### Dịch vụ hỗ trợ
 
@@ -92,10 +92,10 @@ Công cụ này nhận được tất cả tỷ giá hối đoái chỉ bằng m
 
 API ### Fixer (fixer.io)
 
-- Điểm cuối: http://data.fixer.io/api/{date}
+- Điểm cuối: https://
 
 - Tìm nạp tỷ giá trên mỗi cặp tiền tệ
 
 - Cấp miễn phí: 100 yêu cầu/tháng
 
-- Đăng ký: [https://fixer.io](https://fixer.io)
+- Đăng ký: [https://](https://)

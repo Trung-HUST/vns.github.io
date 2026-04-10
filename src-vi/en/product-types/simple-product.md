@@ -2,7 +2,7 @@
 
 A **simple product** is a product type in e-commerce that does not require customers to choose additional attributes (such as size or color) to add to the cart. It should be a physical item and can be shipped to customers.
 
-Therefore, any service, such as downloadable items, does not count as a simple product. This is the step-by-step tutorial on how to add a simple product in [VNS](https://VNS.com/en/).
+Therefore, any service, such as downloadable items, does not count as a simple product. This is the step-by-step tutorial on how to add a simple product in [VNS](https://).
 
 ### Create Simple Product in VNS 2.0
 1. Click on **Catalog >> Products >>** select **Simple** under Product Type.

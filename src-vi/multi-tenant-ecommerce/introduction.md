@@ -1,6 +1,6 @@
 # Thương mại điện tử nhiều người thuê
 
-[Thương mại điện tử nhiều người thuê](https://VNS.com/en/laravel-multi-tenant-saas/) tại VNS cho phép doanh nghiệp xây dựng nền tảng SaaS, nơi nhiều nhà cung cấp hoặc người bán có thể tạo và quản lý cửa hàng riêng của họ trong cùng một hệ thống.
+[Thương mại điện tử nhiều người thuê](https://) tại VNS cho phép doanh nghiệp xây dựng nền tảng SaaS, nơi nhiều nhà cung cấp hoặc người bán có thể tạo và quản lý cửa hàng riêng của họ trong cùng một hệ thống.
 
 Mỗi người thuê (người bán) có một giao diện cửa hàng riêng với toàn quyền kiểm soát sản phẩm, danh mục, đơn hàng và khách hàng, trong khi chủ nền tảng quản lý toàn bộ hạ tầng, đăng ký và mô hình doanh thu. Cách làm này giúp giảm chi phí vận hành cho người bán vì họ không cần đầu tư vào một hệ thống thương mại điện tử riêng.
 

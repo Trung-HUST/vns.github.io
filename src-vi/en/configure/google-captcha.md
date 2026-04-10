@@ -12,7 +12,7 @@ As soon as you click on it, a Status toggle button will appear. Once you enable 
 
 ### To Obtain Google Cloud Project ID:
 
-- Visit [Google Cloud Console](https://console.cloud.google.com/) 
+- Visit [Google Cloud Console](https://) 
 - Create a new project or select an existing one from the project dropdown.
 - Note your Project ID from the project dashboard (not the project name).
 

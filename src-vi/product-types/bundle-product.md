@@ -1,11 +1,11 @@
 # Bộ sản phẩm
 
-Tài liệu hôm nay sẽ hướng dẫn các bạn cách tạo sản phẩm theo gói trên VNS. Sản phẩm theo gói và Sản phẩm được nhóm tương tự nhau, trong đó sản phẩm theo gói bao gồm các mặt hàng có thể tùy chỉnh mà chủ cửa hàng có thể cấu hình để tạo một sản phẩm duy nhất trong [VNS](https://VNS.com/en/).
+Tài liệu hôm nay sẽ hướng dẫn các bạn cách tạo sản phẩm theo gói trên VNS. Sản phẩm theo gói và Sản phẩm được nhóm tương tự nhau, trong đó sản phẩm theo gói bao gồm các mặt hàng có thể tùy chỉnh mà chủ cửa hàng có thể cấu hình để tạo một sản phẩm duy nhất trong [VNS](https://).
 
 Mỗi mặt hàng trong một gói sản phẩm có thể dựa trên một trong các loại sản phẩm sau:
 
-- [Sản phẩm đơn giản](https://VNS.com/en/how-to-create-simple-product-in-VNS/)
-- [Sản phẩm có thể cấu hình](https://VNS.com/en/how-to-create-configurable-product-in-VNS/)
+- [Sản phẩm đơn giản](https://)
+- [Sản phẩm có thể cấu hình](https://)
 
 ### Các Bước Tạo Sản Phẩm Bundle Tại VNS
 

@@ -2,7 +2,7 @@
 
 Sản phẩm biến thể (configurable product) là loại sản phẩm/dịch vụ cho phép khách hàng tùy chọn một số thuộc tính theo nhu cầu (ví dụ: màu sắc, kích thước, thông số…). Trong thương mại điện tử, cách này giúp bạn tạo nhiều biến thể từ một sản phẩm “cha” mà không cần tạo từng sản phẩm riêng lẻ.
 
-Sản phẩm biến thể giúp đáp ứng nhu cầu cá nhân và nâng cao trải nghiệm mua sắm trên [VNS](https://VNS.com/en/).
+Sản phẩm biến thể giúp đáp ứng nhu cầu cá nhân và nâng cao trải nghiệm mua sắm trên [VNS](https://).
 
 ### Cách tạo sản phẩm biến thể trong VNS
 

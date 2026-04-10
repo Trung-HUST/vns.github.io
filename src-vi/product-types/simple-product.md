@@ -2,7 +2,7 @@
 
 **sản phẩm đơn giản** là loại sản phẩm trong thương mại điện tử không yêu cầu khách hàng chọn các thuộc tính bổ sung (chẳng hạn như kích thước hoặc màu sắc) để thêm vào giỏ hàng. Nó phải là một mặt hàng vật chất và có thể được vận chuyển đến khách hàng.
 
-Do đó, bất kỳ dịch vụ nào, chẳng hạn như các mặt hàng có thể tải xuống, không được tính là một sản phẩm đơn giản. Đây là hướng dẫn từng bước về cách thêm một sản phẩm đơn giản vào [VNS](https://VNS.com/en/).
+Do đó, bất kỳ dịch vụ nào, chẳng hạn như các mặt hàng có thể tải xuống, không được tính là một sản phẩm đơn giản. Đây là hướng dẫn từng bước về cách thêm một sản phẩm đơn giản vào [VNS](https://).
 
 ### Tạo sản phẩm đơn giản trong VNS 2.0
 1. Click vào **Catalog >> Sản phẩm >>>> chọn **Đơn giản** trong Loại sản phẩm.

@@ -1,6 +1,6 @@
 # Nền tảng thương mại điện tử B2B
 
-[Nền tảng thương mại điện tử B2B](https://VNS.com/en/b2b-commerce-platform/) là giải pháp mã nguồn mở bổ sung các tính năng B2B nâng cao cho nền tảng thương mại điện tử VNS. Nó giúp doanh nghiệp quản lý tài khoản công ty, đơn hàng số lượng lớn và quyền truy cập nhóm một cách dễ dàng.
+[Nền tảng thương mại điện tử B2B](https://) là giải pháp mã nguồn mở bổ sung các tính năng B2B nâng cao cho nền tảng thương mại điện tử VNS. Nó giúp doanh nghiệp quản lý tài khoản công ty, đơn hàng số lượng lớn và quyền truy cập nhóm một cách dễ dàng.
 
 Nó được thiết kế để đơn giản hóa hoạt động B2B bằng cách cho phép doanh nghiệp đăng ký, quản lý người dùng và xử lý việc mua hàng từ một bảng điều khiển duy nhất.
 

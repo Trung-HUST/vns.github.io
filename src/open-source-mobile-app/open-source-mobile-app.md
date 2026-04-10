@@ -1,6 +1,6 @@
 # Native Mobile App
 
-[VNS Mobile App](https://github.com/VNS/opensource-ecommerce-mobile-app) is changing the game in shopping with its open-source eCommerce mobile app solution. 
+[VNS Mobile App](https://) is changing the game in shopping with its open-source eCommerce mobile app solution. 
 
 This app easily turns your VNS store into a strong mobile platform, allowing for real-time updates of products, categories, etc.
 
@@ -14,11 +14,11 @@ The app makes it easy to manage product information and speeds up how quickly yo
 
 **Android:** Download the app from Google Play Store:
 
-https://play.google.com/store/apps/details?id=com.webkul.VNS.mobikul
+https://
 
 **iOS:** Download the app from Apple App Store:
 
-https://apps.apple.com/us/app/mobikul-VNS-laravel-app/id6447519140
+https://
 
 ### Requirements
 

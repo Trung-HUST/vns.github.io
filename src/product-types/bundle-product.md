@@ -1,11 +1,11 @@
 # Bundle Product
 
-Today's document will guide you on how to create bundle products in VNS. Bundle products and Grouped products are similar, where a bundle product includes customizable items that the store owner can configure to create a unique product in [VNS](https://VNS.com/en/).
+Today's document will guide you on how to create bundle products in VNS. Bundle products and Grouped products are similar, where a bundle product includes customizable items that the store owner can configure to create a unique product in [VNS](https://).
 
 Each item in a bundle product can be based on one of the following product types:
 
-- [Simple Product](https://VNS.com/en/how-to-create-simple-product-in-VNS/)
-- [Configurable Products](https://VNS.com/en/how-to-create-configurable-product-in-VNS/)
+- [Simple Product](https://)
+- [Configurable Products](https://)
 
 ### Steps To Create A Bundle Product In VNS
 

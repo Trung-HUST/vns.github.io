@@ -82,7 +82,7 @@ Alternatively, you can use the command in the CLI: **php artisan exchange-rate:u
 
 - Free tier: 1,500 requests/month
 
-- Sign up: [https://www.exchangerate-api.com](https://www.exchangerate-api.com)
+- Sign up: [https://](https://)
 
 ### Supported Services
 
@@ -92,10 +92,10 @@ This tool gets all the currency exchange rates with just one API call. You can m
 
 ### Fixer API (fixer.io)
 
-- Endpoint: http://data.fixer.io/api/{date}
+- Endpoint: https://
 
 - Fetches rates per currency pair
 
 - Free tier: 100 requests/month
 
-- Sign up: [https://fixer.io](https://fixer.io)
+- Sign up: [https://](https://)
